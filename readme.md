@@ -15,9 +15,6 @@ Aplikasi kuis pembelajaran interaktif berbasis command-line yang dibangun dengan
 - [Persyaratan Sistem](#-persyaratan-sistem)
 - [Instalasi](#-instalasi)
 - [Cara Penggunaan](#-cara-penggunaan)
-- [Arsitektur Aplikasi](#-arsitektur-aplikasi)
-- [API Reference](#-api-reference)
-- [Menambah Soal Baru](#-menambah-soal-baru)
 
 ---
 
