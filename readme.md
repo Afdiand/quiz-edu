@@ -78,6 +78,7 @@ Aplikasi ini menggunakan **standard library Python** saja, tidak memerlukan pack
 ### 1. Clone Repository
 
 ```bash
+  3. Bahasa Indo
 git clone https://github.com/Afdiand/quiz-edu.git
 cd quiz-edu
 ```
@@ -153,9 +154,8 @@ python main.py
 ------------------------------
   0. Matematika (MTK)
   1. IPA (IPA)
-  2. IPS (IPS)
-  3. Bahasa Indonesia (BIN)
-  4. Bahasa Inggris (BIG)
+  2. PKN (PKN)
+  3. Sejarah (SJR)
 ------------------------------
 
   Pilih mapel (0-4): 0
