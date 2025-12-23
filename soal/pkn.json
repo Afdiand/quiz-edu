@@ -1,0 +1,1118 @@
+{
+  "mudah": [
+    {
+      "pertanyaan": "Warna bendera negara Indonesia adalah...",
+      "opsiJawaban": [
+        "Merah Biru",
+        "Merah Putih",
+        "Putih Merah",
+        "Merah Kuning"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lambang negara Indonesia adalah...",
+      "opsiJawaban": ["Harimau", "Elang Jawa", "Garuda Pancasila", "Banteng"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Lagu kebangsaan Indonesia berjudul...",
+      "opsiJawaban": [
+        "Padamu Negeri",
+        "Halo-Halo Bandung",
+        "Indonesia Raya",
+        "Garuda Pancasila"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Dasar negara Republik Indonesia adalah...",
+      "opsiJawaban": ["UUD 1945", "Pancasila", "Tap MPR", "Perpres"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Semboyan negara Indonesia adalah...",
+      "opsiJawaban": [
+        "Bersatu Kita Teguh",
+        "Tut Wuri Handayani",
+        "Bhinneka Tunggal Ika",
+        "Rawe-rawe Rantas"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Arti dari Bhinneka Tunggal Ika adalah...",
+      "opsiJawaban": [
+        "Berbeda-beda tetapi tetap satu",
+        "Bersatu kita teguh bercerai kita runtuh",
+        "Maju terus pantang mundur",
+        "Satu nusa satu bangsa"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Presiden pertama Republik Indonesia adalah...",
+      "opsiJawaban": [
+        "Soeharto",
+        "B.J. Habibie",
+        "Ir. Soekarno",
+        "Joko Widodo"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Indonesia merdeka pada tanggal...",
+      "opsiJawaban": ["17 Agustus", "20 Mei", "1 Juni", "10 November"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tahun berapakah Indonesia merdeka?",
+      "opsiJawaban": ["1942", "1945", "1928", "1998"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Simbol sila pertama Pancasila adalah...",
+      "opsiJawaban": ["Rantai", "Pohon Beringin", "Bintang", "Kepala Banteng"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Simbol sila kedua Pancasila adalah...",
+      "opsiJawaban": [
+        "Padi dan Kapas",
+        "Rantai Emas",
+        "Bintang",
+        "Pohon Beringin"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Simbol sila ketiga Pancasila adalah...",
+      "opsiJawaban": ["Kepala Banteng", "Pohon Beringin", "Rantai", "Bintang"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Simbol sila keempat Pancasila adalah...",
+      "opsiJawaban": ["Kepala Banteng", "Padi dan Kapas", "Bintang", "Rantai"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Simbol sila kelima Pancasila adalah...",
+      "opsiJawaban": [
+        "Pohon Beringin",
+        "Kepala Banteng",
+        "Rantai",
+        "Padi dan Kapas"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Bunyi sila pertama Pancasila adalah...",
+      "opsiJawaban": [
+        "Kemanusiaan yang adil dan beradab",
+        "Persatuan Indonesia",
+        "Ketuhanan Yang Maha Esa",
+        "Keadilan sosial"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kepala Sekolah adalah pemimpin di lingkungan...",
+      "opsiJawaban": ["Rumah", "Sekolah", "Desa", "Kecamatan"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Orang yang memimpin sebuah desa disebut...",
+      "opsiJawaban": ["Camat", "Bupati", "Gubernur", "Kepala Desa"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Provinsi dipimpin oleh seorang...",
+      "opsiJawaban": ["Presiden", "Walikota", "Gubernur", "Camat"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Ibukota negara Indonesia saat ini berpusat di...",
+      "opsiJawaban": ["Surabaya", "Bandung", "Jakarta", "Medan"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Mata uang negara Indonesia adalah...",
+      "opsiJawaban": ["Dolar", "Ringgit", "Rupiah", "Yen"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bahasa persatuan kita adalah bahasa...",
+      "opsiJawaban": ["Jawa", "Inggris", "Indonesia", "Melayu"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tempat untuk menyeberang jalan bagi pejalan kaki disebut...",
+      "opsiJawaban": ["Trotoar", "Zebra Cross", "Halte", "Jembatan"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lampu lalu lintas berwarna merah artinya...",
+      "opsiJawaban": ["Jalan terus", "Hati-hati", "Berhenti", "Parkir"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kita harus membuang sampah di...",
+      "opsiJawaban": ["Sungai", "Jalan raya", "Selokan", "Tempat sampah"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Bekerja bersama-sama untuk menyelesaikan pekerjaan disebut...",
+      "opsiJawaban": ["Tawuran", "Gotong Royong", "Demonstrasi", "Kompetisi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hari Sumpah Pemuda diperingati setiap tanggal...",
+      "opsiJawaban": ["17 Agustus", "28 Oktober", "10 November", "21 April"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Ibu Kita Kartini adalah pahlawan emansipasi...",
+      "opsiJawaban": ["Pria", "Wanita", "Anak-anak", "Lansia"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hari Pahlawan diperingati setiap tanggal...",
+      "opsiJawaban": ["10 November", "5 Oktober", "1 Juni", "2 Mei"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Pencipta lagu Indonesia Raya adalah...",
+      "opsiJawaban": [
+        "Ismail Marzuki",
+        "W.R. Supratman",
+        "C. Simanjuntak",
+        "Ibu Sud"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bendera pusaka Merah Putih pertama kali dijahit oleh...",
+      "opsiJawaban": [
+        "Ibu Kartini",
+        "Ibu Fatmawati",
+        "Ibu Megawati",
+        "Cut Nyak Dien"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hak seorang anak di rumah adalah mendapatkan...",
+      "opsiJawaban": [
+        "Hukuman",
+        "Kasih sayang",
+        "Pekerjaan berat",
+        "Uang gaji"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kewajiban utama seorang siswa adalah...",
+      "opsiJawaban": ["Bekerja", "Bermain", "Belajar", "Tidur"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Ada berapa agama yang diakui secara resmi di Indonesia?",
+      "opsiJawaban": ["4", "5", "6", "7"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tempat ibadah umat Islam adalah...",
+      "opsiJawaban": ["Gereja", "Pura", "Vihara", "Masjid"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Tempat ibadah umat Kristen adalah...",
+      "opsiJawaban": ["Masjid", "Gereja", "Klenteng", "Pura"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tempat ibadah umat Hindu adalah...",
+      "opsiJawaban": ["Pura", "Vihara", "Gereja", "Masjid"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Cara mengambil keputusan bersama yang baik adalah dengan...",
+      "opsiJawaban": ["Berkelahi", "Memaksa kehendak", "Musyawarah", "Undian"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hukum dasar tertulis negara Indonesia adalah...",
+      "opsiJawaban": [
+        "Pancasila",
+        "UUD 1945",
+        "Peraturan Daerah",
+        "Hukum Adat"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Warna burung Garuda Pancasila adalah...",
+      "opsiJawaban": ["Hitam", "Putih", "Merah", "Emas"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Jumlah bulu leher pada burung Garuda melambangkan...",
+      "opsiJawaban": [
+        "Tanggal kemerdekaan",
+        "Bulan kemerdekaan",
+        "Tahun kemerdekaan",
+        "Jam kemerdekaan"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jumlah bulu sayap burung Garuda adalah...",
+      "opsiJawaban": ["17", "8", "45", "19"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Jumlah bulu ekor burung Garuda melambangkan bulan...",
+      "opsiJawaban": ["Januari", "Agustus", "Desember", "Mei"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pemimpin dalam sebuah keluarga adalah...",
+      "opsiJawaban": ["Ayah", "Ibu", "Kakak", "Adik"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tulisan Bhinneka Tunggal Ika terdapat pada bagian ... Garuda.",
+      "opsiJawaban": ["Leher", "Sayap", "Pita di kaki", "Ekor"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sikap menghargai perbedaan agama disebut...",
+      "opsiJawaban": ["Toleransi", "Diskriminasi", "Egois", "Sombong"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kegiatan memilih pemimpin secara langsung oleh rakyat disebut...",
+      "opsiJawaban": ["Siskamling", "Kerja Bakti", "Pemilu", "Rapat"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Lembaga wakil rakyat yang membuat undang-undang adalah...",
+      "opsiJawaban": ["DPR", "KPK", "Polisi", "TNI"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Wakil Presiden Indonesia yang pertama adalah...",
+      "opsiJawaban": ["Soeharto", "Moh. Hatta", "Adam Malik", "Jusuf Kalla"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pulau Bali sering juga disebut sebagai Pulau...",
+      "opsiJawaban": ["Garam", "Dewata", "Emas", "Laskar"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jika ada teman yang jatuh dari sepeda, sikap kita adalah...",
+      "opsiJawaban": [
+        "Menertawakan",
+        "Meninggalkan",
+        "Menolong",
+        "Memarahinya"
+      ],
+      "kunciJawaban": 2
+    }
+  ],
+  "normal": [
+    {
+      "pertanyaan": "Lembaga negara yang berwenang mengubah dan menetapkan Undang-Undang Dasar adalah...",
+      "opsiJawaban": ["DPR", "MPR", "Presiden", "Mahkamah Konstitusi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sidang pertama BPUPKI dilaksanakan pada tanggal...",
+      "opsiJawaban": [
+        "10-16 Juli 1945",
+        "18 Agustus 1945",
+        "29 Mei - 1 Juni 1945",
+        "17 Agustus 1945"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Ketua BPUPKI adalah...",
+      "opsiJawaban": [
+        "Ir. Soekarno",
+        "Drs. Moh. Hatta",
+        "Dr. K.R.T. Radjiman Wedyodiningrat",
+        "Mr. Yamin"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Panitia Sembilan berhasil merumuskan naskah yang dikenal dengan nama...",
+      "opsiJawaban": [
+        "Piagam Jakarta",
+        "Teks Proklamasi",
+        "Pembukaan UUD",
+        "Dekrit Presiden"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "UUD 1945 telah mengalami amandemen sebanyak...",
+      "opsiJawaban": ["1 kali", "2 kali", "3 kali", "4 kali"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Amandemen pertama UUD 1945 dilakukan pada tahun...",
+      "opsiJawaban": ["1998", "1999", "2000", "2001"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pasal 1 Ayat 3 UUD 1945 menyatakan bahwa negara Indonesia adalah negara...",
+      "opsiJawaban": ["Hukum", "Agama", "Maritim", "Kepulauan"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Lembaga yang memiliki kekuasaan yudikatif di Indonesia adalah...",
+      "opsiJawaban": [
+        "DPR dan MPR",
+        "Presiden dan Wakil Presiden",
+        "MA, MK, dan KY",
+        "BPK dan KPK"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hak DPR untuk meminta keterangan kepada pemerintah mengenai kebijakan yang penting disebut hak...",
+      "opsiJawaban": [
+        "Angket",
+        "Interpelasi",
+        "Menyatakan Pendapat",
+        "Imunitas"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pemegang kekuasaan tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara adalah...",
+      "opsiJawaban": [
+        "Panglima TNI",
+        "Menteri Pertahanan",
+        "Presiden",
+        "Ketua MPR"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Lembaga yang bertugas mengusulkan pengangkatan Hakim Agung adalah...",
+      "opsiJawaban": [
+        "Mahkamah Agung",
+        "Mahkamah Konstitusi",
+        "Komisi Yudisial",
+        "DPR"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Asas Pemilu di Indonesia dikenal dengan singkatan...",
+      "opsiJawaban": ["Jurdil", "Luber", "Luber Jurdil", "Pancasila"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sumber dari segala sumber hukum di Indonesia adalah...",
+      "opsiJawaban": [
+        "UUD 1945",
+        "Pancasila",
+        "Ketetapan MPR",
+        "Undang-Undang"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Batas wilayah laut Indonesia yang ditarik sejauh 12 mil dari garis dasar disebut...",
+      "opsiJawaban": [
+        "Zona Ekonomi Eksklusif",
+        "Landas Kontinen",
+        "Laut Teritorial",
+        "Laut Bebas"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pengakuan negara lain terhadap kedaulatan suatu negara secara resmi menurut hukum internasional disebut pengakuan...",
+      "opsiJawaban": ["De Facto", "De Jure", "De Javu", "Diplomatik"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia adalah...",
+      "opsiJawaban": ["Sarekat Islam", "Indische Partij", "Budi Utomo", "PNI"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Budi Utomo didirikan pada tanggal...",
+      "opsiJawaban": [
+        "20 Mei 1908",
+        "28 Oktober 1928",
+        "17 Agustus 1945",
+        "10 November 1945"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Sumpah Pemuda diikrarkan pada tanggal...",
+      "opsiJawaban": [
+        "20 Mei 1928",
+        "28 Oktober 1928",
+        "1 Juni 1945",
+        "17 Agustus 1945"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Isi Sumpah Pemuda yang pertama adalah pengakuan terhadap...",
+      "opsiJawaban": [
+        "Satu Bangsa",
+        "Satu Bahasa",
+        "Satu Tanah Air",
+        "Satu Negara"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Norma yang bersumber dari hati nurani manusia disebut norma...",
+      "opsiJawaban": ["Agama", "Kesusilaan", "Kesopanan", "Hukum"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sanksi bagi pelanggar norma hukum bersifat...",
+      "opsiJawaban": ["Tegas dan Memaksa", "Moral", "Pengucilan", "Penyesalan"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Sikap mementingkan suku bangsa sendiri dan menganggap rendah suku bangsa lain disebut...",
+      "opsiJawaban": [
+        "Patriotisme",
+        "Nasionalisme",
+        "Chauvinisme",
+        "Sukuisme/Etnosentrisme"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Peraturan perundang-undangan yang dibuat oleh DPR bersama Presiden adalah...",
+      "opsiJawaban": [
+        "UUD 1945",
+        "Undang-Undang (UU)",
+        "Peraturan Pemerintah",
+        "Perpres"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Masa jabatan Presiden dan Wakil Presiden di Indonesia adalah...",
+      "opsiJawaban": ["4 tahun", "5 tahun", "6 tahun", "Seumur hidup"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Maksimal masa jabatan Presiden dan Wakil Presiden adalah...",
+      "opsiJawaban": ["1 periode", "2 periode", "3 periode", "Tidak terbatas"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sistem pemerintahan yang dianut oleh Indonesia saat ini adalah...",
+      "opsiJawaban": ["Parlementer", "Presidensial", "Monarki", "Komunis"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Menteri-menteri negara diangkat dan diberhentikan oleh...",
+      "opsiJawaban": ["MPR", "DPR", "Presiden", "MA"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pemerintahan dari rakyat, oleh rakyat, dan untuk rakyat adalah definisi dari...",
+      "opsiJawaban": ["Otokrasi", "Demokrasi", "Oligarki", "Monarki"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lembaga yang berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji UU terhadap UUD adalah...",
+      "opsiJawaban": [
+        "Mahkamah Agung",
+        "Mahkamah Konstitusi",
+        "Komisi Yudisial",
+        "DPR"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Undang-Undang yang mengatur tentang Hak Asasi Manusia adalah...",
+      "opsiJawaban": [
+        "UU No. 39 Tahun 1999",
+        "UU No. 20 Tahun 2003",
+        "UU No. 12 Tahun 2011",
+        "UU No. 32 Tahun 2004"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Komnas HAM adalah lembaga mandiri yang kedudukannya setingkat dengan...",
+      "opsiJawaban": [
+        "Kementerian",
+        "Lembaga Negara lainnya",
+        "LSM",
+        "Organisasi Masyarakat"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Penyerahan wewenang pemerintahan oleh Pemerintah Pusat kepada daerah otonom disebut...",
+      "opsiJawaban": [
+        "Sentralisasi",
+        "Desentralisasi",
+        "Dekonsentrasi",
+        "Tugas Pembantuan"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hak daerah untuk mengatur dan mengurus rumah tangganya sendiri disebut...",
+      "opsiJawaban": [
+        "Otonomi Daerah",
+        "Sentralisasi",
+        "Wilayah Administratif",
+        "Daerah Istimewa"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Gubernur bertanggung jawab kepada...",
+      "opsiJawaban": [
+        "DPRD Provinsi",
+        "Presiden",
+        "Menteri Dalam Negeri",
+        "Rakyat langsung"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kerja sama antar negara-negara di kawasan Asia Tenggara diwadahi dalam organisasi...",
+      "opsiJawaban": ["PBB", "APEC", "ASEAN", "Oki"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "ASEAN didirikan pada tanggal...",
+      "opsiJawaban": [
+        "8 Agustus 1967",
+        "18 Agustus 1945",
+        "24 Oktober 1945",
+        "17 Agustus 1950"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tokoh Indonesia yang menjadi salah satu pendiri ASEAN adalah...",
+      "opsiJawaban": ["Soekarno", "Moh. Hatta", "Adam Malik", "Ali Alatas"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Politik luar negeri Indonesia adalah...",
+      "opsiJawaban": ["Liberal", "Terpimpin", "Bebas Aktif", "Netral"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Salah satu tujuan negara Indonesia yang tercantum dalam Pembukaan UUD 1945 alinea ke-4 adalah...",
+      "opsiJawaban": [
+        "Menjajah bangsa lain",
+        "Mencerdaskan kehidupan bangsa",
+        "Memperluas wilayah",
+        "Menumpuk kekayaan negara"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Asas kewarganegaraan berdasarkan tempat kelahiran disebut...",
+      "opsiJawaban": ["Ius Soli", "Ius Sanguinis", "Apatride", "Bipatride"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Seseorang yang tidak memiliki kewarganegaraan disebut...",
+      "opsiJawaban": ["Bipatride", "Apatride", "Multipatride", "WNA"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Dalam tata urutan perundang-undangan, peraturan di bawah UUD 1945 adalah...",
+      "opsiJawaban": [
+        "Undang-Undang",
+        "Peraturan Presiden",
+        "Ketetapan MPR",
+        "Peraturan Pemerintah"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Lembaga eksekutif di daerah kabupaten adalah...",
+      "opsiJawaban": ["Gubernur", "Bupati", "Walikota", "Camat"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Peraturan Daerah (Perda) dibuat oleh Kepala Daerah bersama dengan...",
+      "opsiJawaban": ["DPR RI", "DPD", "DPRD", "MPR"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sikap rela berkorban demi kepentingan bangsa dan negara disebut...",
+      "opsiJawaban": [
+        "Patriotisme",
+        "Nasionalisme",
+        "Egoisme",
+        "Individualisme"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Dekrit Presiden 5 Juli 1959 menandai berlakunya kembali...",
+      "opsiJawaban": [
+        "UUDS 1950",
+        "UUD 1945",
+        "Konstitusi RIS",
+        "UUD 1945 Amandemen"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kemerdekaan berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan diatur dalam UUD 1945 pasal...",
+      "opsiJawaban": ["Pasal 27", "Pasal 28", "Pasal 29", "Pasal 30"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara. Hal ini bunyi pasal...",
+      "opsiJawaban": ["27 Ayat 3", "30 Ayat 1", "31 Ayat 1", "34 Ayat 1"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Budaya korupsi, kolusi, dan nepotisme (KKN) bertentangan dengan Pancasila sila ke...",
+      "opsiJawaban": ["Satu", "Dua", "Empat", "Lima"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Organisasi PBB (Perserikatan Bangsa-Bangsa) bermarkas di...",
+      "opsiJawaban": ["Jenewa", "New York", "London", "Den Haag"],
+      "kunciJawaban": 1
+    }
+  ],
+  "sulit": [
+    {
+      "pertanyaan": "Sidang pertama BPUPKI membahas tentang dasar negara, sedangkan sidang kedua membahas tentang...",
+      "opsiJawaban": [
+        "Rancangan UUD",
+        "Proklamasi Kemerdekaan",
+        "Pemilihan Presiden",
+        "Pembentukan KNIP"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tokoh yang mengusulkan rumusan dasar negara pada tanggal 31 Mei 1945 adalah...",
+      "opsiJawaban": [
+        "Moh. Yamin",
+        "Ir. Soekarno",
+        "Mr. Soepomo",
+        "Moh. Hatta"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Amandemen keempat UUD 1945 disahkan pada sidang tahunan MPR tahun...",
+      "opsiJawaban": ["1999", "2000", "2001", "2002"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Pasal dalam UUD 1945 yang mengatur tentang tata cara pemberhentian Presiden dan/atau Wakil Presiden (Impeachment) adalah...",
+      "opsiJawaban": ["Pasal 7A", "Pasal 7B", "Pasal 7C", "Pasal 8"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hak DPR untuk melakukan penyelidikan terhadap kebijakan pemerintah yang diduga bertentangan dengan peraturan perundang-undangan disebut hak...",
+      "opsiJawaban": [
+        "Interpelasi",
+        "Angket",
+        "Menyatakan Pendapat",
+        "Imunitas"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Menurut UU No. 12 Tahun 2011, urutan peraturan perundang-undangan yang tepat di bawah UUD 1945 adalah...",
+      "opsiJawaban": [
+        "UU/Perppu, Ketetapan MPR, PP",
+        "Ketetapan MPR, UU/Perppu, PP",
+        "UU, PP, Perpres",
+        "Ketetapan MPR, PP, UU"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lembaga yang berwenang memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh UUD adalah...",
+      "opsiJawaban": [
+        "Mahkamah Agung",
+        "Mahkamah Konstitusi",
+        "Komisi Yudisial",
+        "DPR"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pemberian amnesti dan abolisi oleh Presiden harus memperhatikan pertimbangan dari...",
+      "opsiJawaban": [
+        "Mahkamah Agung",
+        "Mahkamah Konstitusi",
+        "DPR",
+        "Jaksa Agung"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sedangkan pemberian grasi dan rehabilitasi oleh Presiden harus memperhatikan pertimbangan dari...",
+      "opsiJawaban": [
+        "DPR",
+        "Mahkamah Konstitusi",
+        "Mahkamah Agung",
+        "Menteri Hukum dan HAM"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Konsep Trias Politica yang memisahkan kekuasaan menjadi legislatif, eksekutif, dan yudikatif dipopulerkan oleh...",
+      "opsiJawaban": [
+        "John Locke",
+        "Montesquieu",
+        "J.J. Rousseau",
+        "Machiavelli"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Maklumat Wakil Presiden Nomor X Tanggal 16 Oktober 1945 berisi tentang...",
+      "opsiJawaban": [
+        "Pembentukan TNI",
+        "Perubahan fungsi KNIP menjadi legislatif",
+        "Sistem partai tunggal",
+        "Dekrit Presiden"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Salah satu isi Dekrit Presiden 5 Juli 1959 adalah pembentukan...",
+      "opsiJawaban": [
+        "DPR dan MPR",
+        "DPAS dan MPRS",
+        "BPUPKI dan PPKI",
+        "KNIP dan BKR"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Asas kewarganegaraan yang menentukan kewarganegaraan seseorang berdasarkan keturunan bukan negara tempat kelahiran disebut...",
+      "opsiJawaban": [
+        "Ius Soli",
+        "Ius Sanguinis",
+        "Stelsel Aktif",
+        "Stelsel Pasif"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hak seseorang untuk menolak suatu kewarganegaraan (dalam stelsel pasif) disebut hak...",
+      "opsiJawaban": ["Opsi", "Repudiasi", "Asimilasi", "Naturalisasi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pancasila sebagai 'Causa Finalis' berarti Pancasila berfungsi sebagai...",
+      "opsiJawaban": [
+        "Asal mula bahan",
+        "Asal mula bentuk",
+        "Tujuan negara",
+        "Asal mula karya"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Undang-Undang yang mengatur tentang Pemerintahan Daerah adalah...",
+      "opsiJawaban": [
+        "UU No. 32 Tahun 2004",
+        "UU No. 23 Tahun 2014",
+        "UU No. 12 Tahun 2008",
+        "UU No. 9 Tahun 2015"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Dana yang bersumber dari pendapatan APBN yang dialokasikan kepada daerah untuk mendanai kebutuhan daerah dalam rangka pelaksanaan Desentralisasi disebut...",
+      "opsiJawaban": [
+        "Dana Alokasi Umum (DAU)",
+        "Dana Perimbangan",
+        "Dana Alokasi Khusus (DAK)",
+        "Dana Bagi Hasil"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Indonesia keluar dari keanggotaan PBB pada tanggal 7 Januari 1965 sebagai protes atas...",
+      "opsiJawaban": [
+        "Serangan Belanda",
+        "Terpilihnya Malaysia sebagai anggota tidak tetap DK PBB",
+        "Perang Dingin",
+        "Blokade ekonomi"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perjanjian internasional yang dilakukan oleh dua negara disebut perjanjian...",
+      "opsiJawaban": ["Multilateral", "Bilateral", "Regional", "Unilateral"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Wakil Indonesia yang menandatangani Deklarasi Bangkok (pendirian ASEAN) adalah...",
+      "opsiJawaban": [
+        "Ali Sastroamidjojo",
+        "Mochtar Kusumaatmadja",
+        "Adam Malik",
+        "Ruslan Abdulgani"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Gagasan Wawasan Nusantara sebagai geopolitik Indonesia diusulkan pertama kali dalam...",
+      "opsiJawaban": [
+        "Deklarasi Djuanda 1957",
+        "Sumpah Pemuda 1928",
+        "Proklamasi 1945",
+        "Konferensi Meja Bundar"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Jumlah anggota Mahkamah Konstitusi adalah...",
+      "opsiJawaban": ["7 orang", "9 orang", "11 orang", "15 orang"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sistem pemerintahan dimana menteri bertanggung jawab kepada parlemen (DPR) disebut...",
+      "opsiJawaban": [
+        "Presidensial",
+        "Parlementer",
+        "Monarki Konstitusional",
+        "Republik Absolut"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Masa di mana UUD 1945 tidak berlaku dan digantikan oleh Konstitusi RIS terjadi pada rentang tahun...",
+      "opsiJawaban": ["1945-1949", "1949-1950", "1950-1959", "1959-1966"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Landasan idiil politik luar negeri Indonesia adalah...",
+      "opsiJawaban": ["UUD 1945", "Pancasila", "Tap MPR", "GBHN"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Komisi Yudisial memiliki wewenang untuk...",
+      "opsiJawaban": [
+        "Memutuskan sengketa pilkada",
+        "Mengusulkan pengangkatan Hakim Agung",
+        "Mengadili Presiden",
+        "Membuat Undang-Undang"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Peradilan yang menangani sengketa tata usaha negara (KTUN) adalah...",
+      "opsiJawaban": [
+        "Peradilan Umum",
+        "Peradilan Agama",
+        "Peradilan Militer",
+        "PTUN"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Ideologi Pancasila bersifat terbuka, yang berarti...",
+      "opsiJawaban": [
+        "Menerima semua pengaruh asing",
+        "Dapat berinteraksi dengan perkembangan zaman tanpa kehilangan jati diri",
+        "Bebas ditafsirkan semau penguasa",
+        "Statis dan tidak berubah"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pelimpahan wewenang dari pemerintah pusat kepada gubernur sebagai wakil pemerintah dan/atau perangkat pusat di daerah disebut...",
+      "opsiJawaban": [
+        "Desentralisasi",
+        "Dekonsentrasi",
+        "Tugas Pembantuan",
+        "Otonomi Khusus"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pasal 28J UUD 1945 mengatur tentang...",
+      "opsiJawaban": [
+        "Hak hidup",
+        "Kewajiban menghormati HAM orang lain",
+        "Kebebasan beragama",
+        "Hak atas pendidikan"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kejahatan genosida dan kejahatan terhadap kemanusiaan diadili oleh...",
+      "opsiJawaban": [
+        "Pengadilan Negeri",
+        "Pengadilan Militer",
+        "Pengadilan HAM",
+        "Mahkamah Internasional"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Undang-Undang yang mengatur tentang Partai Politik adalah...",
+      "opsiJawaban": [
+        "UU No. 2 Tahun 2008",
+        "UU No. 2 Tahun 2011",
+        "UU No. 7 Tahun 2017",
+        "UU No. 10 Tahun 2016"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Berdasarkan UUD 1945 Pasal 14 Ayat 1, Presiden memberi grasi dan rehabilitasi dengan memperhatikan pertimbangan...",
+      "opsiJawaban": ["DPR", "MPR", "Mahkamah Agung", "Mahkamah Konstitusi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Suatu negara yang mengakui kewarganegaraan ganda terbatas bagi anak-anak (seperti Indonesia) menganut asas...",
+      "opsiJawaban": [
+        "Bipatride",
+        "Multipatride",
+        "Bipatride Terbatas",
+        "Kesatuan Hukum"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sikap positif terhadap pokok pikiran Pembukaan UUD 1945 alinea pertama adalah...",
+      "opsiJawaban": [
+        "Mendukung perjuangan kemerdekaan bangsa lain",
+        "Meningkatkan kerjasama ekonomi",
+        "Memajukan kebudayaan daerah",
+        "Menjaga persatuan"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Amandemen UUD 1945 yang menghapus DPA (Dewan Pertimbangan Agung) terjadi pada amandemen ke...",
+      "opsiJawaban": ["Satu", "Dua", "Tiga", "Empat"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Perwakilan diplomatik yang tidak diperbolehkan atau ditolak oleh negara penerima disebut...",
+      "opsiJawaban": [
+        "Persona grata",
+        "Persona non grata",
+        "Duta besar",
+        "Konsul jenderal"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tugas utama dari DPD (Dewan Perwakilan Daerah) berkaitan dengan...",
+      "opsiJawaban": [
+        "Anggaran belanja negara",
+        "Pertahanan dan keamanan",
+        "Otonomi daerah dan hubungan pusat-daerah",
+        "Politik luar negeri"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sifat kedaulatan yang berarti kekuasaan itu tetap ada selama negara itu berdiri adalah...",
+      "opsiJawaban": ["Asli", "Permanen", "Tunggal", "Tidak terbatas"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jean Bodin mengemukakan teori kedaulatan...",
+      "opsiJawaban": ["Tuhan", "Raja", "Negara", "Hukum"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Organisasi PBB yang menangani masalah pendidikan dan kebudayaan adalah...",
+      "opsiJawaban": ["UNICEF", "WHO", "UNESCO", "ILO"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pada masa Orde Baru, pemilu dilaksanakan sebanyak...",
+      "opsiJawaban": ["5 kali", "6 kali", "7 kali", "4 kali"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pasal 33 Ayat 1 UUD 1945 menyatakan bahwa perekonomian disusun sebagai usaha bersama berdasar atas asas...",
+      "opsiJawaban": [
+        "Kekeluargaan",
+        "Demokrasi Ekonomi",
+        "Kemandirian",
+        "Kebersamaan"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Syarat berdirinya negara secara de jure adalah...",
+      "opsiJawaban": [
+        "Memiliki wilayah",
+        "Memiliki rakyat",
+        "Pemerintahan yang berdaulat",
+        "Pengakuan dari negara lain"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Partai politik yang memenangkan Pemilu pertama tahun 1955 adalah...",
+      "opsiJawaban": ["PNI", "Masyumi", "NU", "PKI"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Konvensi Hukum Laut PBB (UNCLOS) yang mengakui Wawasan Nusantara diratifikasi pada tahun...",
+      "opsiJawaban": ["1957", "1960", "1982", "1999"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Menurut John Locke, hak asasi yang tidak dapat dicabut (natural rights) meliputi...",
+      "opsiJawaban": [
+        "Hidup, Kebebasan, Milik",
+        "Hidup, Pendidikan, Pekerjaan",
+        "Kebebasan, Agama, Politik",
+        "Milik, Kesehatan, Keamanan"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "ZOPFAN adalah deklarasi ASEAN yang menyatakan kawasan Asia Tenggara sebagai kawasan...",
+      "opsiJawaban": [
+        "Perdagangan Bebas",
+        "Damai, Bebas, dan Netral",
+        "Bebas Nuklir",
+        "Pariwisata Terpadu"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lembaga negara yang dihapuskan setelah amandemen UUD 1945 karena fungsinya dianggap tidak efisien adalah...",
+      "opsiJawaban": ["DPA", "BPK", "KPK", "MA"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tindakan hukum pemerintah yang dilakukan oleh pejabat tata usaha negara disebut...",
+      "opsiJawaban": ["Beschikking", "Regeling", "Wetgeving", "Vonnis"],
+      "kunciJawaban": 0
+    }
+  ]
+}

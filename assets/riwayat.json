@@ -1,0 +1,37 @@
+[
+    {
+        "namaUser": "fajrul",
+        "mapel": "Matematika",
+        "nilaiAkhir": 100.0,
+        "tanggalTes": "2025-12-23",
+        "timestamp": "2025-12-23T14:29:37.597149"
+    },
+    {
+        "namaUser": "fajrul",
+        "mapel": "pkn",
+        "nilaiAkhir": 18.0,
+        "tanggalTes": "2025-12-23",
+        "timestamp": "2025-12-23T14:35:10.230512"
+    },
+    {
+        "namaUser": "fajrul",
+        "mapel": "matematika",
+        "nilaiAkhir": 48.0,
+        "tanggalTes": "2025-12-23",
+        "timestamp": "2025-12-23T15:15:31.533559"
+    },
+    {
+        "namaUser": "fajrul",
+        "mapel": "ipa",
+        "nilaiAkhir": 57.99999999999999,
+        "tanggalTes": "2025-12-23",
+        "timestamp": "2025-12-23T15:48:14.208009"
+    },
+    {
+        "namaUser": "ferdi",
+        "mapel": "matematika",
+        "nilaiAkhir": 48.0,
+        "tanggalTes": "2025-12-23",
+        "timestamp": "2025-12-23T16:06:44.904935"
+    }
+]

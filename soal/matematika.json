@@ -1,0 +1,793 @@
+{
+  "mudah": [
+    {
+      "pertanyaan": "Hasil dari 1 + 1 adalah...",
+      "opsiJawaban": ["1", "2", "3", "4"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 5 + 5 adalah...",
+      "opsiJawaban": ["5", "8", "10", "15"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 10 - 5 adalah...",
+      "opsiJawaban": ["2", "3", "5", "7"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Berapa jumlah kaki pada seekor ayam?",
+      "opsiJawaban": ["2", "4", "6", "8"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Bangun datar yang memiliki 3 sisi disebut...",
+      "opsiJawaban": ["Persegi", "Lingkaran", "Segitiga", "Persegi Panjang"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 2 + 3 adalah...",
+      "opsiJawaban": ["4", "5", "6", "7"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Angka setelah 9 adalah...",
+      "opsiJawaban": ["8", "10", "11", "12"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 4 - 2 adalah...",
+      "opsiJawaban": ["1", "2", "3", "4"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bentuk roda sepeda adalah...",
+      "opsiJawaban": ["Kotak", "Segitiga", "Lingkaran", "Lonjong"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 10 + 10 adalah...",
+      "opsiJawaban": ["10", "15", "20", "30"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jumlah jari pada satu tangan manusia normal adalah...",
+      "opsiJawaban": ["4", "5", "6", "10"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 3 x 2 adalah...",
+      "opsiJawaban": ["5", "6", "7", "8"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 8 - 3 adalah...",
+      "opsiJawaban": ["4", "5", "6", "7"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Benda yang berbentuk kubus adalah...",
+      "opsiJawaban": ["Bola", "Dadu", "Koin", "Piring"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 7 + 3 adalah...",
+      "opsiJawaban": ["9", "10", "11", "12"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Angka sebelum 20 adalah...",
+      "opsiJawaban": ["18", "19", "21", "22"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 20 - 10 adalah...",
+      "opsiJawaban": ["5", "10", "15", "20"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jumlah hari dalam satu minggu adalah...",
+      "opsiJawaban": ["5", "6", "7", "8"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 6 + 4 adalah...",
+      "opsiJawaban": ["9", "10", "11", "12"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 15 - 5 adalah...",
+      "opsiJawaban": ["5", "10", "12", "15"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bilangan ganjil antara 2 dan 4 adalah...",
+      "opsiJawaban": ["1", "3", "5", "6"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 2 x 5 adalah...",
+      "opsiJawaban": ["5", "8", "10", "12"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 10 dibagi 2 adalah...",
+      "opsiJawaban": ["2", "4", "5", "6"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jumlah sisi pada bangun persegi adalah...",
+      "opsiJawaban": ["2", "3", "4", "5"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 100 + 0 adalah...",
+      "opsiJawaban": ["0", "10", "100", "1000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 5 - 5 adalah...",
+      "opsiJawaban": ["0", "1", "5", "10"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Lanjutan pola bilangan: 1, 2, 3, 4, ...",
+      "opsiJawaban": ["5", "6", "7", "8"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Hasil dari 9 + 9 adalah...",
+      "opsiJawaban": ["16", "17", "18", "19"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Setengah dari angka 10 adalah...",
+      "opsiJawaban": ["2", "4", "5", "6"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 12 - 2 adalah...",
+      "opsiJawaban": ["8", "9", "10", "11"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jumlah bulan dalam satu tahun adalah...",
+      "opsiJawaban": ["10", "11", "12", "13"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 25 + 25 adalah...",
+      "opsiJawaban": ["40", "45", "50", "60"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 3 + 3 + 3 adalah...",
+      "opsiJawaban": ["6", "9", "12", "15"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 1 x 10 adalah...",
+      "opsiJawaban": ["1", "10", "11", "20"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bangun datar yang seperti telur disebut...",
+      "opsiJawaban": ["Kotak", "Segitiga", "Oval", "Persegi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 8 dibagi 2 adalah...",
+      "opsiJawaban": ["2", "3", "4", "5"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 6 - 3 adalah...",
+      "opsiJawaban": ["2", "3", "4", "5"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan bilangan genap?",
+      "opsiJawaban": ["1", "3", "4", "5"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 50 - 25 adalah...",
+      "opsiJawaban": ["15", "20", "25", "30"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 11 + 2 adalah...",
+      "opsiJawaban": ["12", "13", "14", "15"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Simbol pengurangan adalah...",
+      "opsiJawaban": ["+", "-", "x", ":"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Simbol penjumlahan adalah...",
+      "opsiJawaban": ["-", ":", "+", "="],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 4 x 2 adalah...",
+      "opsiJawaban": ["6", "8", "10", "12"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Uang Rp 500 + Rp 500 menjadi...",
+      "opsiJawaban": ["Rp 500", "Rp 1.000", "Rp 1.500", "Rp 2.000"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jarum panjang jam menunjuk angka 12, jarum pendek menunjuk angka 6. Pukul berapakah itu?",
+      "opsiJawaban": ["06.00", "12.00", "09.00", "03.00"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Hasil dari 20 + 20 adalah...",
+      "opsiJawaban": ["30", "40", "50", "60"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 7 - 2 adalah...",
+      "opsiJawaban": ["4", "5", "6", "7"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 30 + 10 adalah...",
+      "opsiJawaban": ["20", "30", "40", "50"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Ada berapa sudut pada bangun segitiga?",
+      "opsiJawaban": ["2", "3", "4", "5"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 100 - 50 adalah...",
+      "opsiJawaban": ["25", "40", "50", "100"],
+      "kunciJawaban": 2
+    }
+  ],
+  "normal": [
+    {
+      "pertanyaan": "Hasil dari 15 x 4 adalah...",
+      "opsiJawaban": ["45", "50", "60", "75"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 100 dibagi 4 adalah...",
+      "opsiJawaban": ["20", "25", "30", "35"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "KPK dari 4 dan 6 adalah...",
+      "opsiJawaban": ["10", "12", "18", "24"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "FPB dari 12 dan 18 adalah...",
+      "opsiJawaban": ["2", "3", "6", "9"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 25 + 15 - 10 adalah...",
+      "opsiJawaban": ["20", "30", "40", "50"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sudut siku-siku besarnya adalah... derajat.",
+      "opsiJawaban": ["45", "90", "180", "360"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bangun datar yang memiliki 4 sisi sama panjang adalah...",
+      "opsiJawaban": [
+        "Persegi Panjang",
+        "Persegi",
+        "Trapesium",
+        "Jajar Genjang"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "1 jam sama dengan ... menit.",
+      "opsiJawaban": ["30", "45", "60", "100"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Nilai tempat angka 5 pada bilangan 3.520 adalah...",
+      "opsiJawaban": ["Ribuan", "Ratusan", "Puluhan", "Satuan"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 0,5 + 0,25 adalah...",
+      "opsiJawaban": ["0,30", "0,75", "0,80", "0,25"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bentuk pecahan biasa dari 0,2 adalah...",
+      "opsiJawaban": ["1/2", "1/4", "1/5", "2/5"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Luas persegi dengan sisi 5 cm adalah...",
+      "opsiJawaban": ["10 cm²", "20 cm²", "25 cm²", "30 cm²"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Keliling persegi panjang dengan panjang 10 cm dan lebar 5 cm adalah...",
+      "opsiJawaban": ["15 cm", "30 cm", "50 cm", "60 cm"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 3² adalah...",
+      "opsiJawaban": ["6", "9", "12", "15"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Akar pangkat dua dari 16 adalah...",
+      "opsiJawaban": ["2", "3", "4", "5"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sebuah segitiga memiliki alas 10 cm dan tinggi 8 cm. Luasnya adalah...",
+      "opsiJawaban": ["40 cm²", "80 cm²", "18 cm²", "36 cm²"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "25% dari 100 adalah...",
+      "opsiJawaban": ["20", "25", "50", "75"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sudut yang besarnya kurang dari 90 derajat disebut sudut...",
+      "opsiJawaban": ["Tumpul", "Siku-siku", "Lancip", "Lurus"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "1 kg sama dengan ... gram.",
+      "opsiJawaban": ["10", "100", "1000", "10000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 12 x 10 adalah...",
+      "opsiJawaban": ["120", "102", "210", "201"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Bilangan prima terkecil adalah...",
+      "opsiJawaban": ["1", "2", "3", "5"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Manakah yang merupakan bilangan prima?",
+      "opsiJawaban": ["4", "6", "9", "11"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Hasil dari (5 + 5) x 2 adalah...",
+      "opsiJawaban": ["10", "15", "20", "25"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 5 + 5 x 2 adalah...",
+      "opsiJawaban": ["15", "20", "25", "50"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Sisa pembagian dari 10 dibagi 3 adalah...",
+      "opsiJawaban": ["1", "2", "3", "0"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Bangun ruang yang memiliki alas berbentuk lingkaran dan 1 titik puncak adalah...",
+      "opsiJawaban": ["Tabung", "Kerucut", "Limas", "Bola"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Volume kubus dengan rusuk 3 cm adalah...",
+      "opsiJawaban": ["9 cm³", "18 cm³", "27 cm³", "30 cm³"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari -5 + 10 adalah...",
+      "opsiJawaban": ["-5", "5", "-15", "15"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 8 x (-2) adalah...",
+      "opsiJawaban": ["16", "-16", "10", "-10"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jika n + 5 = 12, maka nilai n adalah...",
+      "opsiJawaban": ["5", "6", "7", "8"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "3/4 + 1/4 = ...",
+      "opsiJawaban": ["1/2", "3/4", "4/4 atau 1", "2"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "1/2 dikali 1/3 hasilnya adalah...",
+      "opsiJawaban": ["1/6", "1/5", "2/6", "5/6"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Angka romawi dari 10 adalah...",
+      "opsiJawaban": ["V", "X", "L", "C"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Satu abad sama dengan ... tahun.",
+      "opsiJawaban": ["10", "100", "1000", "10000"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Satu windu sama dengan ... tahun.",
+      "opsiJawaban": ["5", "8", "10", "12"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jumlah simetri lipat pada persegi adalah...",
+      "opsiJawaban": ["2", "3", "4", "Tak terhingga"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jumlah rusuk pada kubus adalah...",
+      "opsiJawaban": ["6", "8", "10", "12"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Jumlah titik sudut pada balok adalah...",
+      "opsiJawaban": ["6", "8", "10", "12"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Ibu membeli 2 kg apel. 1 kg berisi 5 apel. Total apel ibu adalah...",
+      "opsiJawaban": ["5", "7", "10", "15"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Harga 1 buku Rp 2.000. Jika beli 5 buku harganya...",
+      "opsiJawaban": ["Rp 5.000", "Rp 8.000", "Rp 10.000", "Rp 12.000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Rumus luas lingkaran adalah...",
+      "opsiJawaban": ["2 x π x r", "π x r x r", "p x l", "s x s"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Nilai rata-rata dari 2, 4, 6 adalah...",
+      "opsiJawaban": ["3", "4", "5", "6"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kebalikan dari bilangan 10 adalah...",
+      "opsiJawaban": ["-10", "0,1", "100", "1"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Besar sudut lurus adalah...",
+      "opsiJawaban": [
+        "90 derajat",
+        "100 derajat",
+        "180 derajat",
+        "360 derajat"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "1 liter sama dengan ... mililiter.",
+      "opsiJawaban": ["10", "100", "1000", "10000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bilangan kelipatan 5 yang kurang dari 20 adalah...",
+      "opsiJawaban": ["5, 10, 15", "5, 10, 15, 20", "5, 15, 25", "10, 20, 30"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Bentuk persen dari 1/2 adalah...",
+      "opsiJawaban": ["10%", "20%", "25%", "50%"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Hasil pembulatan 15,7 ke satuan terdekat adalah...",
+      "opsiJawaban": ["15", "16", "17", "20"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Umur ayah 40 tahun, umur anak 10 tahun. Selisih umur mereka adalah...",
+      "opsiJawaban": ["10 tahun", "20 tahun", "30 tahun", "40 tahun"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Dua garis yang tidak akan pernah bertemu disebut garis...",
+      "opsiJawaban": ["Berpotongan", "Sejajar", "Tegak Lurus", "Berimpit"],
+      "kunciJawaban": 1
+    }
+  ],
+  "sulit": [
+    {
+      "pertanyaan": "Hasil dari (15 x 3) + (24 : -4) adalah...",
+      "opsiJawaban": ["39", "51", "30", "42"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Nilai n yang memenuhi persamaan 3n - 5 = 22 adalah...",
+      "opsiJawaban": ["7", "8", "9", "10"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sebuah segitiga siku-siku memiliki alas 6 cm dan tinggi 8 cm. Berapakah panjang sisi miringnya (hipotenusa)?",
+      "opsiJawaban": ["9 cm", "10 cm", "12 cm", "14 cm"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 2 pangkat 5 adalah...",
+      "opsiJawaban": ["10", "25", "32", "64"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Akar kuadrat dari 625 adalah...",
+      "opsiJawaban": ["15", "25", "35", "45"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Keliling lingkaran dengan jari-jari 14 cm adalah... (π = 22/7)",
+      "opsiJawaban": ["44 cm", "66 cm", "88 cm", "154 cm"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Luas lingkaran dengan diameter 20 cm adalah... (π = 3,14)",
+      "opsiJawaban": ["31,4 cm²", "62,8 cm²", "314 cm²", "628 cm²"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sebuah dadu dilempar sekali. Peluang muncul mata dadu ganjil adalah...",
+      "opsiJawaban": ["1/6", "1/3", "1/2", "2/3"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jika A = {1, 2, 3} dan B = {3, 4, 5}, maka A ∩ B (irisan) adalah...",
+      "opsiJawaban": ["{3}", "{1, 2}", "{4, 5}", "{1, 2, 3, 4, 5}"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Volume tabung dengan jari-jari 7 cm dan tinggi 10 cm adalah... (π = 22/7)",
+      "opsiJawaban": ["1540 cm³", "770 cm³", "154 cm³", "2200 cm³"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Hasil dari -12 + 5 - (-8) adalah...",
+      "opsiJawaban": ["-15", "-1", "1", "5"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bentuk sederhana dari 4a - 3b + 2a + 5b adalah...",
+      "opsiJawaban": ["6a + 2b", "6a - 8b", "2a + 2b", "2a - 8b"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Harga sebuah baju Rp 200.000. Didiskon 20%. Berapa harga yang harus dibayar?",
+      "opsiJawaban": ["Rp 140.000", "Rp 150.000", "Rp 160.000", "Rp 180.000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jarak kota A ke B adalah 120 km. Ditempuh dengan kecepatan 60 km/jam. Waktu yang diperlukan adalah...",
+      "opsiJawaban": ["1 jam", "1,5 jam", "2 jam", "2,5 jam"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Perbandingan uang Budi dan Ani adalah 2 : 3. Jika jumlah uang mereka Rp 100.000, berapa uang Budi?",
+      "opsiJawaban": ["Rp 20.000", "Rp 30.000", "Rp 40.000", "Rp 60.000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sudut terkecil yang dibentuk jarum jam pada pukul 04.00 adalah...",
+      "opsiJawaban": [
+        "90 derajat",
+        "100 derajat",
+        "120 derajat",
+        "150 derajat"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sebuah balok berukuran 10 cm x 5 cm x 4 cm. Luas permukaannya adalah...",
+      "opsiJawaban": ["200 cm²", "220 cm²", "240 cm²", "300 cm²"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Deret aritmatika: 2, 5, 8, 11, ... Suku ke-10 adalah...",
+      "opsiJawaban": ["28", "29", "30", "32"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 3/4 + 2/3 adalah...",
+      "opsiJawaban": ["5/7", "5/12", "17/12", "13/12"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Konversi suhu 50 derajat Celcius ke Fahrenheit adalah...",
+      "opsiJawaban": ["100 F", "112 F", "122 F", "132 F"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sebuah peta memiliki skala 1 : 1.000.000. Jarak 5 cm di peta sama dengan jarak sebenarnya...",
+      "opsiJawaban": ["5 km", "50 km", "500 km", "5000 km"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "FPB dari 36, 48, dan 72 adalah...",
+      "opsiJawaban": ["6", "8", "12", "24"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "KPK dari 12, 15, dan 20 adalah...",
+      "opsiJawaban": ["30", "45", "60", "90"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jika 5x - 7 = 3x + 5, maka nilai x + 2 adalah...",
+      "opsiJawaban": ["6", "7", "8", "9"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Lantai ruangan berbentuk persegi dengan sisi 6 m akan dipasang keramik 30x30 cm. Jumlah keramik yang dibutuhkan...",
+      "opsiJawaban": ["200 buah", "300 buah", "400 buah", "500 buah"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Median dari data: 5, 6, 7, 7, 8, 9, 10 adalah...",
+      "opsiJawaban": ["6", "7", "7,5", "8"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Rata-rata nilai 4 siswa adalah 80. Jika masuk nilai Andi, rata-rata menjadi 82. Nilai Andi adalah...",
+      "opsiJawaban": ["85", "88", "90", "92"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bilangan biner 101 jika didesimalkan menjadi...",
+      "opsiJawaban": ["3", "5", "7", "9"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari akar pangkat tiga dari 1331 adalah...",
+      "opsiJawaban": ["9", "11", "13", "17"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Persamaan garis yang melalui titik (0,0) dan bergradien 3 adalah...",
+      "opsiJawaban": ["y = x + 3", "y = 3x", "y = 3x + 3", "x = 3y"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sudut yang besarnya lebih dari 90 derajat dan kurang dari 180 derajat disebut...",
+      "opsiJawaban": ["Lancip", "Tumpul", "Siku-siku", "Refleks"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jumlah sudut dalam bangun segi empat adalah...",
+      "opsiJawaban": [
+        "180 derajat",
+        "270 derajat",
+        "360 derajat",
+        "540 derajat"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jika a = -2 dan b = 3, maka nilai 2a² - b adalah...",
+      "opsiJawaban": ["-11", "-5", "5", "11"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sebuah drum minyak berbentuk tabung berdiameter 56 cm dan tinggi 100 cm. Volume drum adalah...",
+      "opsiJawaban": [
+        "246,4 liter",
+        "24,64 liter",
+        "2464 liter",
+        "2,464 liter"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Peluang munculnya angka ganjil atau genap pada pelemparan sebuah dadu adalah...",
+      "opsiJawaban": ["0", "0,5", "0,75", "1"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Bentuk baku dari 0,000045 adalah...",
+      "opsiJawaban": [
+        "4,5 x 10^-4",
+        "4,5 x 10^-5",
+        "45 x 10^-6",
+        "0,45 x 10^-4"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Seorang pedagang untung 20% dengan menjual barang seharga Rp 120.000. Harga beli barang tersebut adalah...",
+      "opsiJawaban": ["Rp 90.000", "Rp 96.000", "Rp 100.000", "Rp 105.000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hasil dari 2 log 8 + 2 log 4 adalah...",
+      "opsiJawaban": ["3", "4", "5", "6"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jika f(x) = 2x + 5, maka f(-3) adalah...",
+      "opsiJawaban": ["-11", "-1", "1", "11"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Garis tengah lingkaran disebut juga...",
+      "opsiJawaban": ["Jari-jari", "Diameter", "Busur", "Tali busur"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bilangan kelipatan persekutuan dari 3 dan 4 yang kurang dari 30 adalah...",
+      "opsiJawaban": ["12, 18, 24", "12, 24", "12, 20, 28", "6, 12, 18"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari (2/3) dibagi (4/9) adalah...",
+      "opsiJawaban": ["8/27", "1/2", "3/2", "2/3"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Panjang busur lingkaran dengan sudut pusat 90 derajat dan jari-jari 14 cm adalah...",
+      "opsiJawaban": ["11 cm", "22 cm", "44 cm", "88 cm"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Banyaknya rusuk pada limas segi empat adalah...",
+      "opsiJawaban": ["4", "5", "8", "12"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Ayah menabung Rp 1.000.000 di bank dengan bunga 12% per tahun. Bunga yang diterima setelah 6 bulan adalah...",
+      "opsiJawaban": ["Rp 60.000", "Rp 120.000", "Rp 50.000", "Rp 100.000"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Jika x + y = 10 dan x - y = 4, maka nilai x.y adalah...",
+      "opsiJawaban": ["16", "20", "21", "24"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Dua buah dadu dilempar bersamaan. Peluang muncul jumlah mata dadu 12 adalah...",
+      "opsiJawaban": ["1/36", "2/36", "1/12", "1/6"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Pekerjaan dapat diselesaikan oleh A dalam 6 hari, dan B dalam 3 hari. Jika dikerjakan bersama-sama selesai dalam...",
+      "opsiJawaban": ["1 hari", "2 hari", "3 hari", "4,5 hari"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sudut yang saling berpelurus jumlahnya adalah...",
+      "opsiJawaban": [
+        "90 derajat",
+        "180 derajat",
+        "270 derajat",
+        "360 derajat"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hasil dari 10 faktorial dibagi 8 faktorial (10! / 8!) adalah...",
+      "opsiJawaban": ["18", "72", "90", "100"],
+      "kunciJawaban": 2
+    }
+  ]
+}

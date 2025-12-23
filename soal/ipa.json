@@ -1,0 +1,853 @@
+{
+  "mudah": [
+    {
+      "pertanyaan": "Hewan pemakan daging disebut...",
+      "opsiJawaban": ["Herbivora", "Karnivora", "Omnivora", "Insektivora"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hewan pemakan tumbuhan disebut...",
+      "opsiJawaban": ["Karnivora", "Herbivora", "Omnivora", "Predator"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hewan pemakan segalanya disebut...",
+      "opsiJawaban": ["Omnivora", "Herbivora", "Karnivora", "Parasit"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Proses tumbuhan memasak makanannya sendiri disebut...",
+      "opsiJawaban": ["Respirasi", "Fotosintesis", "Adaptasi", "Reproduksi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bagian tumbuhan yang menyerap air adalah...",
+      "opsiJawaban": ["Daun", "Batang", "Akar", "Bunga"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Zat hijau pada daun disebut...",
+      "opsiJawaban": ["Stomata", "Klorofil", "Xilem", "Floem"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pusat tata surya kita adalah...",
+      "opsiJawaban": ["Bumi", "Bulan", "Matahari", "Mars"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Planet tempat tinggal kita adalah...",
+      "opsiJawaban": ["Venus", "Bumi", "Mars", "Jupiter"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Satelit alami bumi adalah...",
+      "opsiJawaban": ["Matahari", "Bintang", "Bulan", "Meteor"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Planet terbesar di tata surya adalah...",
+      "opsiJawaban": ["Bumi", "Saturnus", "Jupiter", "Uranus"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Planet yang memiliki cincin tebal adalah...",
+      "opsiJawaban": ["Mars", "Saturnus", "Merkurius", "Neptunus"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perubahan benda padat menjadi cair disebut...",
+      "opsiJawaban": ["Mencair", "Membeku", "Menguap", "Menyublim"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Perubahan benda cair menjadi padat disebut...",
+      "opsiJawaban": ["Mencair", "Membeku", "Mengembun", "Mengkristal"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perubahan benda cair menjadi gas disebut...",
+      "opsiJawaban": ["Membeku", "Menguap", "Mencair", "Menyublim"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perubahan benda gas menjadi cair disebut...",
+      "opsiJawaban": ["Menguap", "Mengembun", "Mencair", "Membeku"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Magnet memiliki dua kutub, yaitu...",
+      "opsiJawaban": [
+        "Utara & Selatan",
+        "Barat & Timur",
+        "Atas & Bawah",
+        "Kiri & Kanan"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Benda yang dapat ditarik magnet disebut...",
+      "opsiJawaban": ["Magnetis", "Nonmagnetis", "Isolator", "Plastik"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kutub magnet yang senama jika didekatkan akan...",
+      "opsiJawaban": ["Tarik-menarik", "Tolak-menolak", "Diam", "Menempel"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Gaya yang membuat benda jatuh ke bawah adalah...",
+      "opsiJawaban": [
+        "Gaya Gesek",
+        "Gaya Magnet",
+        "Gaya Gravitasi",
+        "Gaya Pegas"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Alat untuk mengukur suhu tubuh adalah...",
+      "opsiJawaban": ["Barometer", "Termometer", "Spidometer", "Penggaris"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Katak bernapas menggunakan paru-paru dan...",
+      "opsiJawaban": ["Insang", "Kulit", "Trakea", "Hidung"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Ikan bernapas menggunakan...",
+      "opsiJawaban": ["Paru-paru", "Insang", "Trakea", "Kulit"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tahap awal metamorfosis kupu-kupu adalah...",
+      "opsiJawaban": ["Ulat", "Kepompong", "Telur", "Kupu-kupu muda"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Nyamuk berkembang biak dengan cara...",
+      "opsiJawaban": ["Melahirkan", "Bertelur", "Membelah diri", "Tunas"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Indra penglihat manusia adalah...",
+      "opsiJawaban": ["Hidung", "Telinga", "Mata", "Lidah"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Indra pendengar manusia adalah...",
+      "opsiJawaban": ["Mata", "Telinga", "Kulit", "Hidung"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Indra pengecap manusia adalah...",
+      "opsiJawaban": ["Lidah", "Gigi", "Bibir", "Tenggorokan"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Vitamin yang baik untuk mata adalah...",
+      "opsiJawaban": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Vitamin yang banyak terdapat pada jeruk adalah...",
+      "opsiJawaban": ["Vitamin A", "Vitamin K", "Vitamin C", "Vitamin E"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sinar matahari pagi mengandung vitamin...",
+      "opsiJawaban": ["A", "B", "C", "D"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Benda yang dapat menghantarkan panas disebut...",
+      "opsiJawaban": ["Isolator", "Konduktor", "Radiator", "Generator"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Benda yang tidak dapat menghantarkan panas disebut...",
+      "opsiJawaban": ["Konduktor", "Isolator", "Adaptor", "Sensor"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sumber energi panas terbesar di bumi adalah...",
+      "opsiJawaban": ["Api", "Matahari", "Listrik", "Magma"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Energi yang dihasilkan oleh angin disebut energi...",
+      "opsiJawaban": ["Bayu", "Surya", "Air", "Uap"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "PLTA adalah pembangkit listrik tenaga...",
+      "opsiJawaban": ["Angin", "Air", "Uap", "Gas"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Benda yang mudah terbakar adalah...",
+      "opsiJawaban": ["Batu", "Air", "Kertas", "Besi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Air mengalir dari tempat tinggi ke tempat...",
+      "opsiJawaban": ["Lebih tinggi", "Sama rata", "Rendah", "Jauh"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bagian bunga yang indah dan berwarna-warni adalah...",
+      "opsiJawaban": ["Putik", "Benang sari", "Mahkota", "Kelopak"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Alat gerak pada burung adalah...",
+      "opsiJawaban": ["Sirip", "Sayap", "Perut", "Ekor"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Ular bergerak menggunakan...",
+      "opsiJawaban": ["Kaki", "Sayap", "Perut", "Sirip"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sapi termasuk hewan...",
+      "opsiJawaban": ["Bertelur", "Melahirkan", "Bertunas", "Membelah diri"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Ayam berkembang biak dengan cara...",
+      "opsiJawaban": [
+        "Melahirkan",
+        "Bertelur",
+        "Melahirkan & Bertelur",
+        "Spora"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Udara yang kita hirup adalah...",
+      "opsiJawaban": ["Karbondioksida", "Oksigen", "Nitrogen", "Hidrogen"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Udara yang kita keluarkan saat bernapas adalah...",
+      "opsiJawaban": ["Oksigen", "Karbondioksida", "Helium", "Ozon"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tulang berfungsi untuk...",
+      "opsiJawaban": ["Mengunyah", "Menopang tubuh", "Berpikir", "Melihat"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jantung berfungsi untuk...",
+      "opsiJawaban": [
+        "Mencerna makanan",
+        "Memompa darah",
+        "Bernapas",
+        "Berpikir"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lambung berfungsi untuk...",
+      "opsiJawaban": [
+        "Memompa darah",
+        "Mencerna makanan",
+        "Menyaring darah",
+        "Bernapas"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Wujud air adalah...",
+      "opsiJawaban": ["Padat", "Cair", "Gas", "Uap"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Wujud batu adalah...",
+      "opsiJawaban": ["Cair", "Padat", "Gas", "Lunak"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Benda langit yang berkelip di malam hari adalah...",
+      "opsiJawaban": ["Bulan", "Matahari", "Bintang", "Awan"],
+      "kunciJawaban": 2
+    }
+  ],
+  "normal": [
+    {
+      "pertanyaan": "Lambang unsur kimia untuk Besi adalah...",
+      "opsiJawaban": ["Be", "Fe", "Si", "Au"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Satuan dari gaya adalah...",
+      "opsiJawaban": ["Joule", "Watt", "Newton", "Ampere"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bagian sel yang berfungsi sebagai pengatur seluruh kegiatan sel adalah...",
+      "opsiJawaban": ["Sitoplasma", "Inti Sel", "Dinding Sel", "Membran"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Peristiwa menempelnya serbuk sari di kepala putik disebut...",
+      "opsiJawaban": ["Fotosintesis", "Penyerbukan", "Pembuahan", "Respirasi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bunyi pantul yang terdengar setelah bunyi asli selesai diucapkan disebut...",
+      "opsiJawaban": ["Gaung", "Gema", "Kerdam", "Desah"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Alat untuk mengukur tekanan udara adalah...",
+      "opsiJawaban": ["Termometer", "Barometer", "Hidrometer", "Anemometer"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hewan yang memiliki suhu tubuh tetap (berdarah panas) disebut...",
+      "opsiJawaban": ["Poikiloterm", "Homoiterm", "Reptilia", "Amfibi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Enzim yang mengubah amilum menjadi glukosa di mulut adalah...",
+      "opsiJawaban": ["Pepsin", "Renin", "Ptialin", "Lipase"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pembuluh darah yang mengalirkan darah keluar dari jantung adalah...",
+      "opsiJawaban": ["Vena", "Arteri", "Kapiler", "Aorta"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lapisan terluar bumi disebut...",
+      "opsiJawaban": ["Mantel", "Inti Luar", "Kerak", "Inti Dalam"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Planet yang dijuluki Planet Merah adalah...",
+      "opsiJawaban": ["Venus", "Jupiter", "Mars", "Saturnus"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hubungan antar makhluk hidup yang saling menguntungkan disebut simbiosis...",
+      "opsiJawaban": [
+        "Komensalisme",
+        "Parasitisme",
+        "Mutualisme",
+        "Amensalisme"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Gas yang paling banyak terdapat di atmosfer bumi adalah...",
+      "opsiJawaban": ["Oksigen", "Nitrogen", "Karbondioksida", "Argon"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Cacat mata rabun jauh dapat dibantu dengan kacamata berlensa...",
+      "opsiJawaban": ["Cekung", "Cembung", "Rangkap", "Silindris"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Benda yang dapat memancarkan cahaya sendiri disebut...",
+      "opsiJawaban": ["Planet", "Satelit", "Bintang", "Meteor"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Perubahan wujud dari gas langsung menjadi padat disebut...",
+      "opsiJawaban": ["Menyublim", "Mengkristal", "Menguap", "Mencair"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Rumus kimia air adalah...",
+      "opsiJawaban": ["CO2", "H2O", "O2", "NaCl"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Alat pernapasan pada belalang adalah...",
+      "opsiJawaban": ["Paru-paru", "Insang", "Trakea", "Kulit"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Satuan tegangan listrik adalah...",
+      "opsiJawaban": ["Ampere", "Volt", "Ohm", "Watt"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hewan yang berkembang biak dengan cara bertelur dan melahirkan disebut...",
+      "opsiJawaban": ["Ovipar", "Vivipar", "Ovovivipar", "Fragmentasi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bagian darah yang berfungsi membekukan darah saat luka adalah...",
+      "opsiJawaban": [
+        "Sel darah merah",
+        "Sel darah putih",
+        "Keping darah",
+        "Plasma"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Contoh tumbuhan yang menyimpan cadangan makanan di akar adalah...",
+      "opsiJawaban": ["Tebu", "Wortel", "Mangga", "Padi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Energi yang dimiliki benda karena posisinya/ketinggiannya disebut energi...",
+      "opsiJawaban": ["Kinetik", "Mekanik", "Potensial", "Listrik"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tumbuhan paku berkembang biak menggunakan...",
+      "opsiJawaban": ["Biji", "Tunas", "Spora", "Rizoma"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Logam yang cair pada suhu ruangan adalah...",
+      "opsiJawaban": ["Besi", "Emas", "Raksa", "Timbal"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kelainan tulang punggung yang membengkok ke samping disebut...",
+      "opsiJawaban": ["Lordosis", "Kifosis", "Skoliosis", "Osteoporosis"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Gaya gesek dapat diperkecil dengan cara...",
+      "opsiJawaban": [
+        "Menambah beban",
+        "Memberi pelumas",
+        "Mekasarkan permukaan",
+        "Memperluas permukaan"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Ph minimum untuk air minum yang sehat adalah mendekati...",
+      "opsiJawaban": ["3", "5", "7", "9"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bagian bunga yang berfungsi sebagai alat kelamin jantan adalah...",
+      "opsiJawaban": ["Putik", "Benang sari", "Mahkota", "Kelopak"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perpindahan panas tanpa zat perantara disebut...",
+      "opsiJawaban": ["Konduksi", "Konveksi", "Radiasi", "Isolasi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Satuan frekuensi bunyi adalah...",
+      "opsiJawaban": ["Meter", "Hertz", "Desibel", "Sekon"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hewan mamalia yang bisa terbang adalah...",
+      "opsiJawaban": ["Elang", "Kelelawar", "Penguin", "Ayam"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Fungsi utama usus besar adalah...",
+      "opsiJawaban": [
+        "Mencerna lemak",
+        "Menyerap air",
+        "Membunuh kuman",
+        "Menghaluskan makanan"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Zat aditif alami untuk memberi warna kuning adalah...",
+      "opsiJawaban": ["Pandan", "Kunyit", "Wortel", "Bit"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Cermin yang digunakan pada kaca spion kendaraan adalah cermin...",
+      "opsiJawaban": ["Datar", "Cekung", "Cembung", "Silinder"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kala revolusi bumi (mengelilingi matahari) adalah...",
+      "opsiJawaban": ["24 jam", "30 hari", "365 hari", "10 tahun"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pasang surut air laut disebabkan oleh gaya gravitasi...",
+      "opsiJawaban": ["Matahari", "Bumi", "Bulan", "Mars"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bahan yang digunakan untuk memutus arus listrik saat terjadi korsleting adalah...",
+      "opsiJawaban": ["Sakelar", "Sekering", "Transformator", "Generator"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jaringan yang mengangkut air dari akar ke daun adalah...",
+      "opsiJawaban": ["Xilem", "Floem", "Kambium", "Epidermis"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Simbol unsur kimia untuk Emas adalah...",
+      "opsiJawaban": ["Ag", "Au", "Cu", "Sn"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Gerhana matahari terjadi ketika posisi bulan berada di antara...",
+      "opsiJawaban": [
+        "Matahari dan Bumi",
+        "Bumi dan Mars",
+        "Matahari dan Venus",
+        "Bumi dan Bintang"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Organ tubuh yang memproduksi cairan empedu adalah...",
+      "opsiJawaban": ["Pankreas", "Hati", "Lambung", "Ginjal"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Satuan internasional untuk Suhu adalah...",
+      "opsiJawaban": ["Celcius", "Fahrenheit", "Kelvin", "Reamur"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jenis sendi pada lutut dan siku adalah sendi...",
+      "opsiJawaban": ["Peluru", "Engsel", "Putar", "Geser"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bakteri yang membantu pembusukan makanan di usus besar adalah...",
+      "opsiJawaban": ["Salmonella", "E. Coli", "Lactobacillus", "Rhizobium"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kecepatan adalah jarak dibagi dengan...",
+      "opsiJawaban": ["Gaya", "Waktu", "Percepatan", "Massa"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Urutan planet dari yang terdekat dengan matahari adalah Merkurius, Venus, lalu...",
+      "opsiJawaban": ["Mars", "Bumi", "Jupiter", "Saturnus"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Alat optik yang digunakan untuk melihat benda renik/kecil adalah...",
+      "opsiJawaban": ["Teleskop", "Periskop", "Mikroskop", "Kamera"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Zat tunggal yang tidak dapat diuraikan lagi disebut...",
+      "opsiJawaban": ["Senyawa", "Campuran", "Unsur", "Larutan"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kemampuan kelelawar mengetahui lingkungan dengan bunyi disebut...",
+      "opsiJawaban": ["Mimikri", "Ekolokasi", "Autotomi", "Adaptasi"],
+      "kunciJawaban": 1
+    }
+  ],
+  "sulit": [
+    {
+      "pertanyaan": "Unit fungsional terkecil dari ginjal disebut...",
+      "opsiJawaban": ["Neuron", "Nefron", "Alveolus", "Glomerulus"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Enzim yang mengubah protein menjadi pepton di lambung adalah...",
+      "opsiJawaban": ["Tripsin", "Pepsin", "Lipase", "Amilase"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hukum Newton III menyatakan tentang...",
+      "opsiJawaban": ["Kelembaman", "Percepatan", "Aksi-Reaksi", "Gravitasi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Rumus kimia dari Asam Sulfat adalah...",
+      "opsiJawaban": ["HCl", "H2SO4", "NaCl", "CH3COOH"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bagian sel yang berfungsi sebagai tempat respirasi sel (penghasil energi) adalah...",
+      "opsiJawaban": ["Ribosom", "Mitokondria", "Lisosom", "Badan Golgi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Penyakit darah sukar membeku disebabkan kekurangan vitamin...",
+      "opsiJawaban": ["A", "C", "K", "E"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bunyi hukum Archimedes berkaitan dengan...",
+      "opsiJawaban": ["Gaya Apung", "Gaya Gesek", "Tekanan Udara", "Pemuaian"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Satuan kuat lensa adalah...",
+      "opsiJawaban": ["Candela", "Dioptri", "Lumen", "Watt"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hormon yang berfungsi menurunkan kadar gula dalam darah adalah...",
+      "opsiJawaban": ["Adrenalin", "Insulin", "Tiroksin", "Estrogen"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kecepatan cahaya di ruang hampa mendekati...",
+      "opsiJawaban": [
+        "300.000 m/s",
+        "300.000 km/s",
+        "340 m/s",
+        "150 juta km/s"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lapisan atmosfer yang memantulkan gelombang radio adalah...",
+      "opsiJawaban": [
+        "Troposfer",
+        "Stratosfer",
+        "Ionosfer (Termosfer)",
+        "Eksosfer"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Bagian otak yang berfungsi sebagai pusat keseimbangan tubuh adalah...",
+      "opsiJawaban": [
+        "Otak Besar",
+        "Otak Kecil",
+        "Sumsum Lanjutan",
+        "Hipotalamus"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Gerakan peristaltik terjadi pada organ...",
+      "opsiJawaban": ["Jantung", "Kerongkongan", "Paru-paru", "Hati"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Zat sisa metabolisme yang diekskresikan paru-paru adalah...",
+      "opsiJawaban": ["Urea", "Uap air dan CO2", "Garam mineral", "Amonia"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Alat untuk mengukur kelembaban udara adalah...",
+      "opsiJawaban": ["Barometer", "Higrometer", "Hidrometer", "Manometer"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Organisme yang memperoleh makanan dari sisa makhluk hidup yang mati disebut...",
+      "opsiJawaban": ["Produsen", "Konsumen", "Dekomposer", "Predator"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Rumus kimia kapur tulis (Kalsium Karbonat) adalah...",
+      "opsiJawaban": ["CaO", "CaCO3", "Ca(OH)2", "CaCl2"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Peristiwa terurainya cahaya putih menjadi warna pelangi disebut...",
+      "opsiJawaban": ["Refleksi", "Refraksi", "Dispersi", "Difraksi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Satuan Muatan Listrik adalah...",
+      "opsiJawaban": ["Coulomb", "Ampere", "Joule", "Volt"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Bakteri Rhizobium leguminosarum bersimbiosis dengan tanaman kacang-kacangan untuk mengikat...",
+      "opsiJawaban": ["Oksigen", "Nitrogen", "Karbon", "Hidrogen"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Proses pembentukan sel kelamin jantan (sperma) disebut...",
+      "opsiJawaban": ["Oogenesis", "Spermatogenesis", "Mitosis", "Meiosis"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kelainan mata tidak bisa melihat benda dekat dan jauh (mata tua) disebut...",
+      "opsiJawaban": ["Miopi", "Hipermetropi", "Presbiopi", "Astigmatisme"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hukum I termodinamika dikenal juga sebagai hukum...",
+      "opsiJawaban": [
+        "Kekekalan Energi",
+        "Entropi",
+        "Suhu Nol Mutlak",
+        "Kekekalan Momentum"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Ciri khas planet Uranus adalah...",
+      "opsiJawaban": [
+        "Memiliki cincin terindah",
+        "Berwarna merah",
+        "Sumbu rotasinya miring ekstrem",
+        "Paling dekat matahari"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jaringan tumbuhan yang sel-selnya aktif membelah adalah...",
+      "opsiJawaban": ["Parenkim", "Meristem", "Epidermis", "Sklerenkim"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kelenjar endokrin yang disebut 'Master of Glands' adalah...",
+      "opsiJawaban": ["Tiroid", "Hipofisis (Pituitari)", "Pankreas", "Adrenal"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Logam yang paling baik menghantarkan listrik adalah...",
+      "opsiJawaban": ["Tembaga", "Emas", "Perak", "Aluminium"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Perubahan materi genetik secara tiba-tiba disebut...",
+      "opsiJawaban": ["Evolusi", "Mutasi", "Adaptasi", "Seleksi Alam"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Zat kimia yang berfungsi menghantarkan rangsang antar sel saraf disebut...",
+      "opsiJawaban": ["Hormon", "Enzim", "Neurotransmitter", "Reseptor"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Nilai percepatan gravitasi bumi rata-rata adalah...",
+      "opsiJawaban": ["8.9 m/s²", "9.8 m/s²", "10.8 m/s²", "12 m/s²"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pemisahan campuran berdasarkan titik didih disebut...",
+      "opsiJawaban": ["Filtrasi", "Distilasi", "Kromatografi", "Sublimasi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Hewan avertebrata yang tubuhnya berpori disebut...",
+      "opsiJawaban": ["Porifera", "Coelenterata", "Mollusca", "Arthropoda"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Besaran yang memiliki nilai dan arah disebut besaran...",
+      "opsiJawaban": ["Pokok", "Turunan", "Skalar", "Vektor"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Nama latin padi adalah...",
+      "opsiJawaban": [
+        "Zea mays",
+        "Oryza sativa",
+        "Gnetum gnemon",
+        "Ficus benjamina"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Reaksi fotosintesis pada tahap reaksi gelap terjadi di...",
+      "opsiJawaban": ["Grana", "Stroma", "Tilakoid", "Membran"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tekanan zat cair pada ruang tertutup diteruskan ke segala arah sama besar adalah bunyi hukum...",
+      "opsiJawaban": ["Pascal", "Archimedes", "Boyle", "Newton"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Pembuluh darah balik yang membawa darah kaya O2 dari paru-paru ke jantung adalah...",
+      "opsiJawaban": [
+        "Vena Cava",
+        "Vena Pulmonalis",
+        "Arteri Pulmonalis",
+        "Aorta"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Planet yang masa rotasinya lebih lama daripada masa revolusinya adalah...",
+      "opsiJawaban": ["Merkurius", "Venus", "Mars", "Jupiter"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sendi yang terdapat pada tulang atlas dan tulang leher adalah sendi...",
+      "opsiJawaban": ["Peluru", "Putar", "Engsel", "Geser"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Proses masuknya air ke dalam biji saat perkecambahan disebut...",
+      "opsiJawaban": ["Difusi", "Osmosis", "Imbibisi", "Transpirasi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Rumus hubungan antara Tegangan (V), Arus (I), dan Hambatan (R) adalah...",
+      "opsiJawaban": ["V = I / R", "V = I x R", "R = V x I", "I = V x R"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bahan dasar pembuatan kaca adalah...",
+      "opsiJawaban": ["Kaolin", "Silika (Pasir Kuarsa)", "Bauksit", "Grafit"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Urutan takson terendah pada klasifikasi makhluk hidup adalah...",
+      "opsiJawaban": ["Genus", "Spesies", "Familia", "Ordo"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Efek Rumah Kaca disebabkan oleh meningkatnya gas...",
+      "opsiJawaban": ["O2", "CO2", "N2", "H2"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Alat untuk mengukur kedalaman laut menggunakan gelombang bunyi adalah...",
+      "opsiJawaban": ["Radar", "Sonar", "Laser", "Seismik"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bagian ginjal tempat penampungan urine sementara sebelum ke ureter adalah...",
+      "opsiJawaban": ["Korteks", "Medula", "Pelvis Renalis", "Uretra"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tipe golngan darah AB disebut sebagai...",
+      "opsiJawaban": [
+        "Donor Universal",
+        "Resipien Universal",
+        "Donor Resipien",
+        "Golongan Netral"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jumlah kromosom pada sel tubuh manusia normal adalah...",
+      "opsiJawaban": ["23 pasang", "46 pasang", "22 pasang", "24 pasang"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Fenomena fatamorgana terjadi karena prinsip...",
+      "opsiJawaban": [
+        "Pembiasan cahaya",
+        "Pemantulan sempurna",
+        "Penguraian cahaya",
+        "Interferensi cahaya"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Unsur radioaktif yang digunakan sebagai bahan bakar PLTN adalah...",
+      "opsiJawaban": ["Titanium", "Uranium", "Magnesium", "Radium"],
+      "kunciJawaban": 1
+    }
+  ]
+}

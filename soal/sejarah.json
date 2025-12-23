@@ -1,0 +1,1203 @@
+{
+  "mudah": [
+    {
+      "pertanyaan": "Negara yang menjajah Indonesia paling lama adalah...",
+      "opsiJawaban": ["Jepang", "Inggris", "Belanda", "Portugis"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Proklamasi Kemerdekaan Indonesia dibacakan pada tanggal...",
+      "opsiJawaban": [
+        "28 Oktober 1928",
+        "17 Agustus 1945",
+        "10 November 1945",
+        "1 Juni 1945"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Presiden pertama Republik Indonesia adalah...",
+      "opsiJawaban": [
+        "Soeharto",
+        "B.J. Habibie",
+        "Ir. Soekarno",
+        "Susilo Bambang Yudhoyono"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Wakil Presiden pertama Republik Indonesia adalah...",
+      "opsiJawaban": [
+        "Adam Malik",
+        "Moh. Hatta",
+        "Sri Sultan Hamengkubuwono IX",
+        "Jusuf Kalla"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lagu kebangsaan Indonesia Raya diciptakan oleh...",
+      "opsiJawaban": [
+        "Ismail Marzuki",
+        "W.R. Supratman",
+        "C. Simanjuntak",
+        "H. Mutahar"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bendera Merah Putih pertama kali dijahit oleh...",
+      "opsiJawaban": [
+        "Ibu Kartini",
+        "Cut Nyak Dien",
+        "Ibu Fatmawati",
+        "Megawati"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hari Pahlawan diperingati setiap tanggal...",
+      "opsiJawaban": ["17 Agustus", "20 Mei", "10 November", "21 April"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hari Kartini diperingati setiap tanggal...",
+      "opsiJawaban": ["21 April", "22 Desember", "1 Juni", "1 Oktober"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Pahlawan wanita dari Aceh yang gigih melawan Belanda adalah...",
+      "opsiJawaban": [
+        "R.A. Kartini",
+        "Dewi Sartika",
+        "Cut Nyak Dien",
+        "Martha Christina Tiahahu"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pahlawan yang dijuluki 'Ayam Jantan dari Timur' adalah...",
+      "opsiJawaban": [
+        "Pangeran Diponegoro",
+        "Sultan Hasanuddin",
+        "Pattimura",
+        "Tuanku Imam Bonjol"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah...",
+      "opsiJawaban": ["Majapahit", "Tarumanegara", "Kutai", "Singasari"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Candi Buddha terbesar di Indonesia adalah...",
+      "opsiJawaban": ["Prambanan", "Borobudur", "Mendut", "Penataran"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sumpah Pemuda diikrarkan pada tanggal...",
+      "opsiJawaban": [
+        "20 Mei 1908",
+        "17 Agustus 1945",
+        "28 Oktober 1928",
+        "1 Juni 1945"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Patih Majapahit yang terkenal dengan Sumpah Palapa adalah...",
+      "opsiJawaban": [
+        "Gajah Mada",
+        "Hayam Wuruk",
+        "Raden Wijaya",
+        "Kertanegara"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kota tempat terjadinya peristiwa Bandung Lautan Api adalah...",
+      "opsiJawaban": ["Semarang", "Surabaya", "Bandung", "Jakarta"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tokoh pendidikan nasional yang mendirikan Taman Siswa adalah...",
+      "opsiJawaban": [
+        "Ki Hajar Dewantara",
+        "Ahmad Dahlan",
+        "H.O.S Cokroaminoto",
+        "Dr. Sutomo"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kerja paksa pada masa penjajahan Jepang disebut...",
+      "opsiJawaban": ["Rodi", "Tanam Paksa", "Romusha", "Devide et Impera"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Perang yang dipimpin oleh Pangeran Diponegoro terjadi di...",
+      "opsiJawaban": ["Sumatera", "Jawa", "Sulawesi", "Maluku"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tokoh yang mengetik naskah proklamasi adalah...",
+      "opsiJawaban": ["Soekarno", "Sayuti Melik", "B.M. Diah", "Wikana"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jenderal yang memimpin perang gerilya saat sakit parah adalah...",
+      "opsiJawaban": [
+        "Jenderal Sudirman",
+        "Jenderal Ahmad Yani",
+        "Bung Tomo",
+        "Jenderal Gatot Subroto"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Organisasi pergerakan nasional yang pertama berdiri adalah...",
+      "opsiJawaban": ["Sarekat Islam", "Indische Partij", "Budi Utomo", "PNI"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pemberontakan G30S/PKI terjadi pada tahun...",
+      "opsiJawaban": ["1945", "1955", "1965", "1998"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Masa penjajahan Jepang di Indonesia berlangsung selama...",
+      "opsiJawaban": ["3,5 tahun", "350 tahun", "10 tahun", "5 tahun"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Presiden Indonesia yang ke-2 adalah...",
+      "opsiJawaban": ["Soekarno", "Soeharto", "Habibie", "Gus Dur"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Semboyan Bhinneka Tunggal Ika diambil dari kitab...",
+      "opsiJawaban": [
+        "Negarakertagama",
+        "Sutasoma",
+        "Arjuna Wiwaha",
+        "Pararaton"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kota tempat dibacakannya teks proklamasi adalah...",
+      "opsiJawaban": ["Rengasdengklok", "Bogor", "Jakarta", "Surabaya"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Peristiwa penculikan Soekarno-Hatta oleh golongan muda sebelum proklamasi terjadi di...",
+      "opsiJawaban": ["Rengasdengklok", "Bandung", "Linggarjati", "Semarang"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kerajaan Islam pertama di Indonesia adalah...",
+      "opsiJawaban": ["Mataram Islam", "Samudra Pasai", "Demak", "Gowa Tallo"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sultan Ageng Tirtayasa adalah pahlawan dari daerah...",
+      "opsiJawaban": ["Banten", "Makassar", "Yogyakarta", "Bali"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kapitan Pattimura adalah pahlawan yang berasal dari...",
+      "opsiJawaban": ["Sumatera Barat", "Maluku", "Papua", "Jawa Tengah"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Konferensi Asia Afrika (KAA) pertama kali diadakan di kota...",
+      "opsiJawaban": ["Jakarta", "Surabaya", "Bandung", "Bali"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Presiden wanita pertama di Indonesia adalah...",
+      "opsiJawaban": [
+        "Fatmawati",
+        "Megawati Soekarnoputri",
+        "Cut Nyak Dien",
+        "R.A. Kartini"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Monumen Nasional (Monas) terletak di provinsi...",
+      "opsiJawaban": ["Jawa Barat", "DKI Jakarta", "Banten", "Jawa Tengah"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tuanku Imam Bonjol memimpin perang...",
+      "opsiJawaban": ["Diponegoro", "Padri", "Aceh", "Bali"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tokoh yang membakar semangat 'Arek-Arek Suroboyo' pada 10 November adalah...",
+      "opsiJawaban": [
+        "Bung Karno",
+        "Bung Hatta",
+        "Bung Tomo",
+        "Jenderal Sudirman"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Rumah tempat perumusan teks proklamasi adalah rumah Laksamana...",
+      "opsiJawaban": ["Maeda", "Yamamoto", "Tanaka", "Hirohito"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Sistem tanam paksa pada masa penjajahan Belanda disebut...",
+      "opsiJawaban": ["Romusha", "Cultuurstelsel", "Kerja Rodi", "Monopoli"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kerajaan Majapahit mencapai puncak kejayaan pada masa raja...",
+      "opsiJawaban": [
+        "Raden Wijaya",
+        "Hayam Wuruk",
+        "Kertanegara",
+        "Jayanegara"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Manusia purba yang ditemukan di Sangiran adalah...",
+      "opsiJawaban": [
+        "Meganthropus",
+        "Homo Sapiens",
+        "Homo Soloensis",
+        "Pithecanthropus Erectus"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Raja wanita yang terkenal dari kerajaan Majapahit adalah...",
+      "opsiJawaban": [
+        "Tribhuwana Tunggadewi",
+        "Ken Dedes",
+        "Ratu Shima",
+        "Pramodawardhani"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Pemilu pertama di Indonesia dilaksanakan pada tahun...",
+      "opsiJawaban": ["1945", "1950", "1955", "1960"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tokoh pendiri Nahdlatul Ulama (NU) adalah...",
+      "opsiJawaban": [
+        "K.H. Ahmad Dahlan",
+        "K.H. Hasyim Asy'ari",
+        "K.H. Mas Mansur",
+        "Buya Hamka"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tokoh pendiri Muhammadiyah adalah...",
+      "opsiJawaban": [
+        "K.H. Ahmad Dahlan",
+        "K.H. Hasyim Asy'ari",
+        "Tjokroaminoto",
+        "Agus Salim"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Peristiwa Reformasi yang menurunkan Presiden Soeharto terjadi pada tahun...",
+      "opsiJawaban": ["1990", "1995", "1998", "2000"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Mata uang pertama Republik Indonesia disebut...",
+      "opsiJawaban": ["Rupiah", "ORI", "Ringgit", "Gulden"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Nama kapal Portugis yang pertama kali mendarat di Malaka adalah...",
+      "opsiJawaban": [
+        "Trinidad",
+        "Victoria",
+        "Santa Maria",
+        "Tidak ada nama spesifik yang populer di SD"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bangsa Eropa yang pertama kali datang ke Indonesia adalah...",
+      "opsiJawaban": ["Belanda", "Inggris", "Spanyol", "Portugis"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Gedung Sumpah Pemuda terletak di jalan...",
+      "opsiJawaban": [
+        "Pegangsaan Timur",
+        "Kramat Raya 106",
+        "Menteng 31",
+        "Imam Bonjol 1"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Isi Sumpah Pemuda yang ketiga adalah menjunjung bahasa...",
+      "opsiJawaban": ["Daerah", "Melayu", "Indonesia", "Belanda"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pahlawan yang wajahnya ada di uang kertas pecahan Rp 100.000 (edisi lama/baru) adalah...",
+      "opsiJawaban": [
+        "Soekarno-Hatta",
+        "Pattimura",
+        "I Gusti Ngurah Rai",
+        "Cut Nyak Meutia"
+      ],
+      "kunciJawaban": 0
+    }
+  ],
+  "normal": [
+    {
+      "pertanyaan": "Prasasti Yupa yang merupakan peninggalan kerajaan Kutai memberitakan tentang...",
+      "opsiJawaban": [
+        "Silsilah raja-raja Kutai",
+        "Perdagangan rempah-rempah",
+        "Perang bubat",
+        "Pembangunan candi"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kerajaan maritim terbesar di Indonesia yang berpusat di Sumatera Selatan adalah...",
+      "opsiJawaban": ["Majapahit", "Sriwijaya", "Tarumanegara", "Singasari"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Sumpah Palapa diucapkan oleh Gajah Mada saat pelantikannya menjadi Patih Amangkubhumi. Isi sumpah tersebut adalah...",
+      "opsiJawaban": [
+        "Tidak akan memakan buah palapa sebelum Nusantara bersatu",
+        "Tidak akan menikah sebelum musuh kalah",
+        "Akan setia kepada Raja Hayam Wuruk",
+        "Akan membangun seribu candi"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Raja Kerajaan Singasari yang terkenal dengan gagasan Ekspedisi Pamalayu adalah...",
+      "opsiJawaban": ["Ken Arok", "Anusapati", "Kertanegara", "Wisnuwardhana"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Masuknya Islam ke Indonesia salah satunya melalui jalur perdagangan. Bukti tertua keberadaan Islam di Indonesia adalah...",
+      "opsiJawaban": [
+        "Makam Fatimah binti Maimun",
+        "Masjid Demak",
+        "Batu Nisan Sultan Malik Al-Saleh",
+        "Hikayat Raja-raja Pasai"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Wali Songo yang menyebarkan agama Islam dengan menggunakan media wayang kulit adalah...",
+      "opsiJawaban": [
+        "Sunan Ampel",
+        "Sunan Kalijaga",
+        "Sunan Gresik",
+        "Sunan Bonang"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bangsa Belanda pertama kali mendarat di Banten pada tahun 1596 dipimpin oleh...",
+      "opsiJawaban": [
+        "Jacob van Neck",
+        "Jan Pieterszoon Coen",
+        "Cornelis de Houtman",
+        "Wybrand van Warwijck"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hak istimewa yang dimiliki oleh VOC disebut hak...",
+      "opsiJawaban": ["Veto", "Oktroi", "Privilege", "Monopoli"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Penyebab utama kebangkrutan VOC pada akhir abad ke-18 adalah...",
+      "opsiJawaban": [
+        "Serangan dari Inggris",
+        "Perlawanan rakyat Indonesia",
+        "Korupsi di kalangan pegawai VOC",
+        "Harga rempah-rempah turun"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Jalan Raya Pos (Grote Postweg) dari Anyer hingga Panarukan dibangun pada masa pemerintahan...",
+      "opsiJawaban": [
+        "H.W. Daendels",
+        "Thomas Stamford Raffles",
+        "Van den Bosch",
+        "J.P. Coen"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Sistem Tanam Paksa (Cultuurstelsel) yang menyengsarakan rakyat Indonesia dicetuskan oleh...",
+      "opsiJawaban": [
+        "Douwes Dekker",
+        "Van Deventer",
+        "Johannes van den Bosch",
+        "Baron van Hoevel"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Buku 'Max Havelaar' yang mengkritik sistem tanam paksa dikarang oleh...",
+      "opsiJawaban": [
+        "E.F.E. Douwes Dekker",
+        "Multatuli",
+        "Suwardi Suryaningrat",
+        "Van Deventer"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Trias Van Deventer atau Politik Etis mencakup tiga bidang, yaitu...",
+      "opsiJawaban": [
+        "Irigasi, Emigrasi, Edukasi",
+        "Irigasi, Transportasi, Edukasi",
+        "Edukasi, Urbanisasi, Transmigrasi",
+        "Perdagangan, Pertanian, Pendidikan"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Organisasi Budi Utomo didirikan pada tanggal 20 Mei 1908 oleh para pelajar...",
+      "opsiJawaban": ["STOVIA", "OSVIA", "MULO", "AMS"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tiga Serangkai pendiri Indische Partij adalah...",
+      "opsiJawaban": [
+        "Soekarno, Hatta, Sjahrir",
+        "Douwes Dekker, Cipto Mangunkusumo, Suwardi Suryaningrat",
+        "Wahidin Sudirohusodo, Sutomo, Gunawan",
+        "H. Samanhudi, Tjokroaminoto, Agus Salim"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perang Padri di Sumatera Barat pada awalnya adalah pertentangan antara...",
+      "opsiJawaban": [
+        "Kaum Adat dan Belanda",
+        "Kaum Agama dan Belanda",
+        "Kaum Adat dan Kaum Agama",
+        "Rakyat dan Raja"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Penyebab khusus terjadinya Perang Diponegoro adalah...",
+      "opsiJawaban": [
+        "Belanda ikut campur urusan keraton",
+        "Pungutan pajak yang tinggi",
+        "Pemasangan patok jalan melintasi makam leluhur Pangeran Diponegoro",
+        "Rakyat menderita akibat kerja paksa"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kongres Pemuda II yang melahirkan Sumpah Pemuda dilaksanakan pada tanggal...",
+      "opsiJawaban": [
+        "28 Oktober 1928",
+        "30 April 1926",
+        "22 Desember 1928",
+        "2 Mei 1928"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Organisasi bentukan Jepang yang dipimpin oleh Empat Serangkai (Soekarno, Hatta, Ki Hajar Dewantara, Mas Mansyur) adalah...",
+      "opsiJawaban": ["Gerakan 3A", "PETA", "Putera", "Jawa Hokokai"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tentara sukarela pembela tanah air yang dibentuk Jepang disebut...",
+      "opsiJawaban": ["Heiho", "Keibodan", "Seinendan", "PETA"],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan tua dan golongan muda mengenai...",
+      "opsiJawaban": [
+        "Teks proklamasi",
+        "Waktu pelaksanaan proklamasi",
+        "Lokasi pembacaan proklamasi",
+        "Penandatangan teks proklamasi"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Naskah proklamasi kemerdekaan Indonesia diketik oleh...",
+      "opsiJawaban": ["Sayuti Melik", "B.M. Diah", "Sukarni", "Ahmad Subardjo"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Insiden perobekan bendera Belanda (Merah-Putih-Biru) menjadi Merah-Putih terjadi di Hotel Yamato, kota...",
+      "opsiJawaban": ["Semarang", "Bandung", "Surabaya", "Medan"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pertempuran Ambarawa dipimpin oleh...",
+      "opsiJawaban": [
+        "Bung Tomo",
+        "Jenderal Soedirman",
+        "Letkol Isdiman",
+        "I Gusti Ngurah Rai"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perjanjian antara Indonesia dan Belanda yang ditengahi oleh KTN (Komisi Tiga Negara) di atas kapal perang Amerika Serikat adalah...",
+      "opsiJawaban": ["Linggarjati", "Roem-Royen", "Renville", "KMB"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Konferensi Meja Bundar (KMB) yang menyepakati pengakuan kedaulatan Indonesia dilaksanakan di...",
+      "opsiJawaban": ["Jakarta", "Den Haag", "New York", "London"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Bentuk negara Indonesia setelah pengakuan kedaulatan hasil KMB adalah...",
+      "opsiJawaban": ["NKRI", "Serikat (RIS)", "Kerajaan", "Parlementer"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Salah satu isi Dekrit Presiden 5 Juli 1959 adalah...",
+      "opsiJawaban": [
+        "Pembubaran PKI",
+        "Pembubaran Konstituante",
+        "Turunkan harga",
+        "Pembebasan Irian Barat"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tiga tuntutan rakyat (Tritura) yang disuarakan mahasiswa pada tahun 1966 berisi, kecuali...",
+      "opsiJawaban": [
+        "Bubarkan PKI",
+        "Bersihkan kabinet dari unsur G30S",
+        "Turunkan harga",
+        "Turunkan Presiden Soekarno"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Surat Perintah Sebelas Maret (Supersemar) diberikan Presiden Soekarno kepada...",
+      "opsiJawaban": [
+        "Jenderal A.H. Nasution",
+        "Letjen Soeharto",
+        "Sri Sultan Hamengkubuwono IX",
+        "Adam Malik"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pahlawan Revolusi adalah gelar yang diberikan kepada para perwira TNI yang gugur dalam peristiwa...",
+      "opsiJawaban": [
+        "Serangan Umum 1 Maret",
+        "Bandung Lautan Api",
+        "G30S/PKI",
+        "Pertempuran Surabaya"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Timor Timur berintegrasi menjadi provinsi ke-27 Indonesia pada masa pemerintahan Presiden...",
+      "opsiJawaban": [
+        "Soekarno",
+        "Soeharto",
+        "B.J. Habibie",
+        "Abdurrahman Wahid"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Gerakan Reformasi 1998 dipicu oleh krisis...",
+      "opsiJawaban": ["Militer", "Budaya", "Moneter/Ekonomi", "Lingkungan"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Presiden Indonesia yang memisahkan kepolisian (Polri) dari TNI adalah...",
+      "opsiJawaban": [
+        "B.J. Habibie",
+        "Abdurrahman Wahid (Gus Dur)",
+        "Megawati Soekarnoputri",
+        "Susilo Bambang Yudhoyono"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Komisi Pemberantasan Korupsi (KPK) didirikan pada masa pemerintahan Presiden...",
+      "opsiJawaban": [
+        "B.J. Habibie",
+        "Abdurrahman Wahid",
+        "Megawati Soekarnoputri",
+        "Susilo Bambang Yudhoyono"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Candi Prambanan dibangun pada masa kerajaan Mataram Kuno oleh dinasti/wangsa...",
+      "opsiJawaban": ["Syailendra", "Sanjaya", "Isyana", "Girindra"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kitab Sutasoma yang memuat istilah 'Bhinneka Tunggal Ika' dikarang oleh...",
+      "opsiJawaban": [
+        "Mpu Prapanca",
+        "Mpu Tantular",
+        "Mpu Gandring",
+        "Mpu Sedah"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pusat Kerajaan Demak terletak di provinsi...",
+      "opsiJawaban": ["Jawa Barat", "Jawa Timur", "Jawa Tengah", "Banten"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Perjanjian Giyanti pada tahun 1755 membagi Kerajaan Mataram Islam menjadi dua, yaitu...",
+      "opsiJawaban": [
+        "Surakarta dan Yogyakarta",
+        "Demak dan Pajang",
+        "Banten dan Cirebon",
+        "Gowa dan Tallo"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tokoh wanita dari Jawa Barat yang mendirikan sekolah 'Sakola Istri' adalah...",
+      "opsiJawaban": [
+        "R.A. Kartini",
+        "Dewi Sartika",
+        "Cut Nyak Dien",
+        "Maria Walanda Maramis"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Organisasi pergerakan nasional yang bersifat keagamaan dan ekonomi pertama kali adalah...",
+      "opsiJawaban": [
+        "Sarekat Dagang Islam",
+        "Muhammadiyah",
+        "Nahdlatul Ulama",
+        "Persis"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Gubernur Jenderal VOC yang mendirikan kota Batavia adalah...",
+      "opsiJawaban": [
+        "Jan Pieterszoon Coen",
+        "Pieter Both",
+        "Van der Capellen",
+        "Daendels"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Serangan Umum 1 Maret 1949 terjadi di kota...",
+      "opsiJawaban": ["Surakarta", "Yogyakarta", "Semarang", "Bukittinggi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tokoh yang memimpin delegasi Indonesia dalam Konferensi Meja Bundar adalah...",
+      "opsiJawaban": [
+        "Sutan Syahrir",
+        "Amir Syarifuddin",
+        "Moh. Hatta",
+        "Sri Sultan Hamengkubuwono IX"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pemilu pertama tahun 1955 bertujuan untuk memilih anggota...",
+      "opsiJawaban": [
+        "Presiden dan Wapres",
+        "DPR dan Konstituante",
+        "MPR dan DPR",
+        "DPRD dan Kepala Daerah"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Konferensi Asia Afrika di Bandung tahun 1955 menghasilkan kesepakatan yang disebut...",
+      "opsiJawaban": [
+        "Piagam Jakarta",
+        "Dasasila Bandung",
+        "Deklarasi Bangkok",
+        "Consensus Nasional"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Indonesia pernah keluar dari keanggotaan PBB pada tahun 1965 karena...",
+      "opsiJawaban": [
+        "Konfrontasi dengan Malaysia",
+        "Masalah Irian Barat",
+        "Krisis ekonomi",
+        "Perang Dingin"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Peristiwa Malari (Malapetaka Lima Belas Januari) terjadi pada tahun 1974 pada masa pemerintahan...",
+      "opsiJawaban": ["Orde Lama", "Orde Baru", "Reformasi", "Transisi"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Wakil Presiden Indonesia yang mendampingi Soeharto di akhir masa jabatannya (1998) adalah...",
+      "opsiJawaban": [
+        "Try Sutrisno",
+        "Umar Wirahadikusumah",
+        "Sudharmono",
+        "B.J. Habibie"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Amandemen UUD 1945 pertama kali dilakukan pada tahun...",
+      "opsiJawaban": ["1998", "1999", "2000", "2002"],
+      "kunciJawaban": 1
+    }
+  ],
+  "sulit": [
+    {
+      "pertanyaan": "Fosil manusia purba Meganthropus Paleojavanicus pertama kali ditemukan oleh G.H.R. von Koenigswald pada tahun 1936-1941 di daerah...",
+      "opsiJawaban": ["Trinil", "Sangiran", "Wajak", "Ngandong"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Prasasti Ciaruteun peninggalan Kerajaan Tarumanegara memiliki ciri khas adanya lukisan...",
+      "opsiJawaban": [
+        "Telapak kaki gajah",
+        "Telapak kaki raja",
+        "Bunga teratai",
+        "Laba-laba"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Raja Kerajaan Mataram Kuno yang mendirikan Candi Borobudur berasal dari Dinasti...",
+      "opsiJawaban": ["Sanjaya", "Syailendra", "Isyana", "Girindra"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kitab Negarakertagama yang menceritakan kejayaan Majapahit ditulis oleh...",
+      "opsiJawaban": [
+        "Mpu Tantular",
+        "Mpu Prapanca",
+        "Mpu Panuluh",
+        "Mpu Dharmaja"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perang Saudara di Majapahit yang melemahkan kerajaan tersebut setelah kematian Hayam Wuruk disebut Perang...",
+      "opsiJawaban": ["Bubat", "Ganter", "Paregreg", "Pagaruyung"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sultan Ternate yang berhasil mengusir Portugis dari Maluku pada tahun 1575 adalah...",
+      "opsiJawaban": [
+        "Sultan Hairun",
+        "Sultan Baabullah",
+        "Sultan Nuku",
+        "Sultan Hasanuddin"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perjanjian Salatiga pada tahun 1757 membagi wilayah Mataram menjadi tiga, dengan munculnya wilayah baru yaitu...",
+      "opsiJawaban": [
+        "Kasultanan Yogyakarta",
+        "Kasunanan Surakarta",
+        "Mangkunegaran",
+        "Pakualaman"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Gubernur Jenderal VOC yang pertama (1610-1614) adalah...",
+      "opsiJawaban": [
+        "Jan Pieterszoon Coen",
+        "Gerard Reynst",
+        "Pieter Both",
+        "Laurens Reael"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Hak oktroi VOC untuk menebang tanaman rempah-rempah agar harganya tetap stabil disebut...",
+      "opsiJawaban": [
+        "Hongi Tochten",
+        "Ekstirpasi",
+        "Verplichte Leverantie",
+        "Contingenten"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perang Batak (1878-1907) dipimpin oleh Sisingamangaraja XII yang gugur di daerah...",
+      "opsiJawaban": ["Dairi", "Toba", "Samosir", "Tarutung"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Artikel 'Een Eereschuld' (Hutang Kehormatan) yang memicu Politik Etis ditulis oleh...",
+      "opsiJawaban": [
+        "Baron van Hoevel",
+        "Douwes Dekker",
+        "Conrad Theodore van Deventer",
+        "Fransen van de Putte"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Organisasi pergerakan nasional Indische Partij dilarang oleh pemerintah kolonial karena dianggap radikal. Majalah yang mereka terbitkan bernama...",
+      "opsiJawaban": [
+        "De Express",
+        "Oetoesan Hindia",
+        "Indonesia Merdeka",
+        "Daulat Ra'jat"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kongres Pemuda I pada tahun 1926 diketuai oleh...",
+      "opsiJawaban": [
+        "Sugondo Djojopuspito",
+        "Mohammad Yamin",
+        "M. Tabrani",
+        "Amir Syarifuddin"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Petisi Soetardjo pada tahun 1936 berisi tuntutan tentang...",
+      "opsiJawaban": [
+        "Kemerdekaan penuh Indonesia",
+        "Pemerintahan sendiri (Zelfbestuur) dalam uni Belanda-Indonesia",
+        "Penghapusan kerja rodi",
+        "Pembubaran Volksraad"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Nama lembaga BPUPKI dalam bahasa Jepang adalah...",
+      "opsiJawaban": [
+        "Dokuritsu Junbi Inkai",
+        "Dokuritsu Junbi Cosakai",
+        "Chuo Sangi In",
+        "Jawa Hokokai"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Tokoh Jepang yang rumahnya dijadikan tempat perumusan teks proklamasi adalah...",
+      "opsiJawaban": [
+        "Kumakichi Harada",
+        "Hitoshi Imamura",
+        "Tadashi Maeda",
+        "Kuniaki Koiso"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kalimat pertama pada teks proklamasi 'Kami bangsa Indonesia dengan ini menyatakan kemerdekaan Indonesia' diusulkan oleh...",
+      "opsiJawaban": [
+        "Moh. Hatta",
+        "Soekarno",
+        "Ahmad Soebardjo",
+        "Sayuti Melik"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Tokoh yang mengusulkan agar teks proklamasi ditandatangani oleh Soekarno dan Hatta atas nama bangsa Indonesia adalah...",
+      "opsiJawaban": ["B.M. Diah", "Sukarni", "Wikana", "Chairul Saleh"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Jenderal Inggris yang tewas dalam insiden di Jembatan Merah Surabaya pada 30 Oktober 1945 adalah...",
+      "opsiJawaban": [
+        "General Christison",
+        "Brigadier General A.W.S. Mallaby",
+        "General Mansergh",
+        "Lord Killearn"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Perjanjian Linggarjati mengakui wilayah kekuasaan Republik Indonesia secara de facto meliputi...",
+      "opsiJawaban": [
+        "Jawa, Sumatera, dan Kalimantan",
+        "Jawa, Madura, dan Sumatera",
+        "Jawa, Bali, dan Madura",
+        "Sumatera, Jawa, dan Sulawesi"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Garis demarkasi yang memisahkan wilayah RI dan Belanda pasca Perjanjian Renville disebut...",
+      "opsiJawaban": [
+        "Garis Curzon",
+        "Garis Wallace",
+        "Garis Van Mook",
+        "Garis Weber"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Pemerintahan Darurat Republik Indonesia (PDRI) di Bukittinggi dipimpin oleh...",
+      "opsiJawaban": [
+        "Sutan Sjahrir",
+        "Syafruddin Prawiranegara",
+        "Amir Syarifuddin",
+        "Tan Malaka"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Komisi Tiga Negara (KTN) terdiri dari negara...",
+      "opsiJawaban": [
+        "Australia, Belgia, Amerika Serikat",
+        "Inggris, Belanda, Indonesia",
+        "India, Australia, Amerika Serikat",
+        "Mesir, India, Australia"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Peristiwa pemberontakan PKI Madiun 1948 dipimpin oleh...",
+      "opsiJawaban": [
+        "Musso dan Amir Syarifuddin",
+        "Aidit dan Syam",
+        "Kartosuwiryo",
+        "Tan Malaka"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Gerakan APRA (Angkatan Perang Ratu Adil) di Bandung dipimpin oleh...",
+      "opsiJawaban": [
+        "Andi Aziz",
+        "Soumokil",
+        "Raymond Westerling",
+        "D.J. Somba"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Kabinet pertama pada masa Demokrasi Liberal adalah Kabinet...",
+      "opsiJawaban": ["Natsir", "Sukiman", "Wilopo", "Ali Sastroamidjojo I"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Jatuhnya Kabinet Wilopo disebabkan oleh peristiwa sengketa tanah perkebunan di Sumatera Utara yang dikenal sebagai peristiwa...",
+      "opsiJawaban": ["Bandar Betsy", "Tanjung Morawa", "Cikini", "Malari"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Deklarasi Djuanda dicetuskan pada tanggal...",
+      "opsiJawaban": [
+        "13 Desember 1957",
+        "5 Juli 1959",
+        "17 Agustus 1950",
+        "28 Oktober 1955"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Isi Dekrit Presiden 5 Juli 1959 selain pembubaran Konstituante adalah...",
+      "opsiJawaban": [
+        "Berlakunya UUDS 1950",
+        "Pembentukan MPRS dan DPAS",
+        "Pembentukan Kabinet Kerja",
+        "Pembebasan Irian Barat"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Operasi militer untuk membebaskan Irian Barat dinamakan Operasi...",
+      "opsiJawaban": ["Pagar Betis", "Baratayuda", "Mandala", "Seroja"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Panglima Komando Mandala pembebasan Irian Barat adalah...",
+      "opsiJawaban": [
+        "Jenderal Ahmad Yani",
+        "Mayjen Soeharto",
+        "Yos Sudarso",
+        "L.B. Moerdani"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Isi Trikora (Tri Komando Rakyat) yang diucapkan Soekarno di Yogyakarta, kecuali...",
+      "opsiJawaban": [
+        "Gagalkan pembentukan negara boneka Papua",
+        "Kibarkan Sang Merah Putih di Irian Barat",
+        "Bersiaplah untuk mobilisasi umum",
+        "Bubarkan PKI sampai ke akarnya"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Pahlawan Revolusi yang diculik dari rumahnya di Jl. Lembang D 58 Menteng adalah...",
+      "opsiJawaban": [
+        "Letjen S. Parman",
+        "Mayjen D.I. Panjaitan",
+        "Mayjen R. Suprapto",
+        "Brigjen Sutoyo"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Kesatuan aksi mahasiswa yang menuntut pembubaran PKI pada tahun 1966 tergabung dalam...",
+      "opsiJawaban": ["KAMI", "KAPI", "KASI", "KAPPI"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Kabinet yang dibentuk oleh Soeharto pada awal Orde Baru bernama Kabinet...",
+      "opsiJawaban": ["Dwikora", "Ampera", "Pembangunan", "Gotong Royong"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Fusi partai politik pada tahun 1973 menggabungkan partai Islam (NU, Parmusi, PSII, Perti) menjadi...",
+      "opsiJawaban": ["Golkar", "PDI", "PPP", "Masyumi"],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Operasi militer Indonesia di Timor Timur pada tahun 1975 disebut Operasi...",
+      "opsiJawaban": ["Wisnumurti", "Seroja", "Trikora", "Dwikora"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Menteri Luar Negeri Indonesia yang menandatangani Deklarasi Bangkok 1967 adalah...",
+      "opsiJawaban": [
+        "Ali Alatas",
+        "Mochtar Kusumaatmadja",
+        "Adam Malik",
+        "Subandrio"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Sidang Istimewa MPR tahun 1999 yang menolak pidato pertanggungjawaban Presiden Habibie menyebabkan...",
+      "opsiJawaban": [
+        "Habibie mengundurkan diri",
+        "Habibie tidak mencalonkan diri lagi",
+        "Terjadi kerusuhan Mei",
+        "Pemilu dipercepat"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Presiden Abdurrahman Wahid mengeluarkan Dekrit Presiden pada 23 Juli 2001 yang berisi, kecuali...",
+      "opsiJawaban": [
+        "Pembubaran DPR/MPR",
+        "Mengembalikan kedaulatan ke tangan rakyat",
+        "Pembekuan Partai Golkar",
+        "Mempercepat Pemilu 2004"
+      ],
+      "kunciJawaban": 3
+    },
+    {
+      "pertanyaan": "Perjanjian Helsinki tahun 2005 adalah kesepakatan damai antara Pemerintah RI dengan...",
+      "opsiJawaban": ["OPM", "GAM", "RMS", "Fretilin"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Lembaga yang dibentuk Jepang untuk menampung saran-saran dari tokoh Indonesia kepada pemerintah Jepang adalah...",
+      "opsiJawaban": ["Chuo Sangi In", "Jawa Hokokai", "Keibodan", "Sendenbu"],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Pemberontakan DI/TII di Aceh yang dipimpin oleh Daud Beureueh diselesaikan melalui...",
+      "opsiJawaban": [
+        "Operasi Pagar Betis",
+        "Operasi Baratayuda",
+        "Musyawarah Kerukunan Rakyat Aceh",
+        "Perjanjian Renville"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Perdana Menteri Indonesia pada masa Kabinet Karya adalah...",
+      "opsiJawaban": [
+        "Ali Sastroamidjojo",
+        "Burhanuddin Harahap",
+        "Djuanda Kartawidjaja",
+        "Wilopo"
+      ],
+      "kunciJawaban": 2
+    },
+    {
+      "pertanyaan": "Negara boneka buatan Van Mook yang berdiri di Sumatera adalah...",
+      "opsiJawaban": [
+        "Negara Sumatera Selatan",
+        "Negara Sumatera Timur",
+        "Negara Pasundan",
+        "Negara Indonesia Timur"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Situs manusia purba Sangiran ditetapkan oleh UNESCO sebagai Warisan Budaya Dunia pada tahun...",
+      "opsiJawaban": ["1991", "1996", "2000", "2004"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Raja Kediri yang terkenal dengan ramalannya (Jangka Jayabaya) adalah...",
+      "opsiJawaban": ["Kertajaya", "Jayabaya", "Kameswara", "Bameswara"],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Pertempuran Lima Hari di Semarang dipicu oleh tewasnya...",
+      "opsiJawaban": [
+        "Dr. Karyadi",
+        "Dr. Moewardi",
+        "Slamet Riyadi",
+        "Yos Sudarso"
+      ],
+      "kunciJawaban": 0
+    },
+    {
+      "pertanyaan": "Tokoh penjelajah Portugis yang pertama kali berhasil mencapai Tanjung Harapan (Afrika Selatan) sebelum sampai ke Asia adalah...",
+      "opsiJawaban": [
+        "Vasco da Gama",
+        "Bartolomeus Diaz",
+        "Alfonso de Albuquerque",
+        "Magelhaens"
+      ],
+      "kunciJawaban": 1
+    },
+    {
+      "pertanyaan": "Teks Supersemar yang asli hingga saat ini...",
+      "opsiJawaban": [
+        "Disimpan di Monas",
+        "Disimpan di ANRI",
+        "Masih menjadi kontroversi keberadaannya",
+        "Hilang terbakar"
+      ],
+      "kunciJawaban": 2
+    }
+  ]
+}
